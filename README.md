@@ -102,6 +102,21 @@ pip install -r requirements.txt
 - 从巨潮资讯获取事件信息：python handle_cninfo.py
 - 从沧海数据通过api获取行情数据等：python handle_canghai_api.py
 
+处理数据文件：目前支持Doc、Docx、Excel、csv、PDF、MD、json文件，处理后文件主要用于模型微调数据集和知识库构建
+微调数据集结构：
+``` 
+[
+    {
+        "conversation": {
+            "input": "问题：601318的全称、A股简称、法人、会计师事务所及董秘是？",
+            "output": "对于股票代码为 601318 的公司，以下是您请求的信息：全称：中国平安保险（集团）股份有限公司 (China Ping An Insurance (Group) Co., Ltd.)A股简称：中国平安法人：马明哲（董事长）会计师事务所：普华永道中天会计师事务所 (PwC Zhong Tian)董秘：姚波（董事会秘书）请注意，这些信息可能会随时间而变化，尤其是法律顾问和董秘等职位。为了获得最准确和最新的信息，建议查阅中国平安最近发布的官方公告或年度报告。这些文件通常可以在公司的官方网站或者上海证券交易所的官方网站上找到。"
+        }
+    },
+    ...
+]
+```
+
+
 ### 模型训练
 
 命令行直接如下操作：
@@ -119,6 +134,8 @@ xtuner train ./xtuner_config/finetune/internlm2_5_chat_1_8b_qlora_wulewule_all_t
 ### RAG(检索增强生成)
 
 默认`data`目录为txt数据源目录，开启RAG后，会使用bce-embedding-base_v1自动将`data`目录下的txt数据转为换chroma向量库数据，存放在`rag/chroma `目录下（如果该目录下已有数据库文件，则跳过数据库创建），然后使用bce-reranker-base_v1对检索到的信息重排序后，将问题和上下文一起给模型得到最终输出。`rag/simple_rag.py`里是一个简单的demo，参数配置见`configs/rag_cfg.yaml`。
+
+[金融知识库](README_rag.md)
 
  
 ## 开发计划
