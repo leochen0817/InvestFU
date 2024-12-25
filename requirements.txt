@@ -1,0 +1,7 @@
+playwright==1.38.0
+requests==2.32.3
+holidays==0.63
+pymupdf4llm==0.0.17
+chromadb==0.5.23
+transformers==4.46.0
+tokenizers==0.20.3
