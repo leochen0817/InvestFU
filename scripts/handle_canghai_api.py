@@ -25,7 +25,8 @@ def invoke_remote_api(token, stock_code, start_date, end_date, api_type):
 
 
 if __name__ == "__main__":
-    token = "7452b6850ff5460da60781877c09d36f"
+    # 请到 https://tsanghi.com/ 注册账号，并复制token
+    token = ""
     stock_code = "601318"
     start_date = "2024-01-01"
     end_date = get_previous_workday_with_holidays()
