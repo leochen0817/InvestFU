@@ -5,3 +5,7 @@ pymupdf4llm==0.0.17
 chromadb==0.5.23
 transformers==4.46.0
 tokenizers==0.20.3
+yt-dlp
+funasr
+lightrag
+textract

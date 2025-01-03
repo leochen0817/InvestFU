@@ -150,7 +150,8 @@ if __name__=="__main__":
     db, collection = get_chroma_db(vector_store_path, embeddings)
     print(db, collection)
 
-    input_text = "中国平安主营业务"
+    # input_text = "中国平安主营业务"
+    input_text = input("请输入知识库检索问题：")
     top_k = 2
     top_results = db_search(collection, model_path, input_text, top_k)
 
@@ -158,7 +159,7 @@ if __name__=="__main__":
     # 调用llm总结返回文本，优化输出
     content = top_results['metadatas']
     prompt = f"请根据{input_text}问题总结{content}内容并输出"
-    api_key = "eyJ0eXBlIjoiSldUIiwiYWxnIjoiSFM1MTIifQ.eyJqdGkiOiI1MDE5Njk5NSIsInJvbCI6IlJPTEVfUkVHSVNURVIiLCJpc3MiOiJPcGVuWExhYiIsImlhdCI6MTczMTAyOTAxMSwiY2xpZW50SWQiOiJlYm1ydm9kNnlvMG5semFlazF5cCIsInBob25lIjoiMTM3NzMwOTM4NDEiLCJ1dWlkIjoiMDM2MjQxZDAtOWNmYy00MGRlLWJkN2ItMTk0MzRkYzgxZjVjIiwiZW1haWwiOiIiLCJleHAiOjE3NDY1ODEwMTF9.jP3JNlI1zx7Jo3xdYQjjSMsdlxOxTbs5szXHpst8NAKg1I8SD3lBZOoLjhABbo89gTdNIr1aweAkPpluk9jj3Q"
+    api_key = ""    # your-key
     client = OpenAI(base_url="https://internlm-chat.intern-ai.org.cn/puyu/api/v1/", api_key=api_key)
     model = "internlm2.5-latest"
     output = llm_gen(prompt, client, model)

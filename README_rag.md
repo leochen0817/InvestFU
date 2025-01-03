@@ -140,3 +140,39 @@ response = client.chat.completions.create(
 )
 return response.choices[0].message.content
 ```
+
+
+## LightRAG 知识库
+调用硅基云API访问使用 `BAAI/bge-m3` 向量嵌入模型和`Qwen/Qwen2.5-7B-Instruct` LLM模型，对指定路径文件读取文本嵌入、存储RAG。  
+首先，删除工作目录清除旧数据：  
+```py
+import shutil
+
+if os.path.exists(WORKING_DIR):
+    shutil.rmtree(WORKING_DIR)
+os.mkdir(WORKING_DIR)
+```
+
+因siliconflow硅基云API请求有限制，设定TPM限制和请求间隔等信息，并对大文本切分， 具体请看 `scripts/rag_storage.py` 内代码。  
+定义lightrag并进行文本知识插入，lightrag会自动识别主体和关系存储为知识图谱以供快速检索：  
+```py
+# 定义
+rag = LightRAG(
+    working_dir=WORKING_DIR,
+    llm_model_func=llm_model_func,
+    embedding_func=EmbeddingFunc(
+        embedding_dim=1024, max_token_size=512, func=embedding_func
+    ),
+)
+# 插入知识库
+rag.insert(text)
+
+#检索, mode: naive\local\global\hybrid
+print(rag.query("your-question", param=QueryParam(mode="hybrid")))
+```
+
+如果请求硅基云API过于频繁触发 `HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests` 报错，可以添加 `await asyncio.sleep(n)` 代码增加延迟。
+
+RAG检索结果：
+![RAG检索结果](./assets/rag_query.png)
+
