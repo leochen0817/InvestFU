@@ -10,6 +10,7 @@
     - [数据集制作](#数据集制作)
     - [模型训练](#模型训练)
     - [RAG(检索增强生成)](#rag检索增强生成)
+    - [ASR(语音识别)](#ASR(语音识别))
 - [开发计划](#开发计划)
     - [初版功能](#初版功能)
     - [后续功能](#后续功能)
@@ -115,6 +116,7 @@ pip install -r requirements.txt
     ...
 ]
 ```
+[数据处理](README_data.md)
 
 
 ### 模型训练
@@ -136,6 +138,13 @@ xtuner train ./xtuner_config/finetune/internlm2_5_chat_1_8b_qlora_wulewule_all_t
 默认`data`目录为txt数据源目录，开启RAG后，会使用bce-embedding-base_v1自动将`data`目录下的txt数据转为换chroma向量库数据，存放在`rag/chroma `目录下（如果该目录下已有数据库文件，则跳过数据库创建），然后使用bce-reranker-base_v1对检索到的信息重排序后，将问题和上下文一起给模型得到最终输出。`rag/simple_rag.py`里是一个简单的demo，参数配置见`configs/rag_cfg.yaml`。
 
 [金融知识库](README_rag.md)
+
+
+### ASR(语音识别)
+通过FunASR使用SenseVoiceSmall模型做音频语音识别。
+
+[语音识别处理](README_asr.md)
+
 
  
 ## 开发计划

@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d4" for="edge" attr.name="description" attr.type="string"/>
+<key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;交叉销售&quot;(">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"Cross-sales is a strategy of selling multiple products to a single client, a key part of Ping An's reform strategy."</data>
+  <data key="d2">chunk-fd6c7bb6bb091e7114b67c174d099a73</data>
+</node>
+<node id="&quot;客户经理&quot;(">
+  <data key="d0">"ROLE"</data>
+  <data key="d1">"Client managers in Ping An who will eventually become financial planners for comprehensive needs of customers."</data>
+  <data key="d2">chunk-fd6c7bb6bb091e7114b67c174d099a73</data>
+</node>
+<node id="&quot;JOHN SMITH&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"John Smith is a software developer at TechCorp and recently traveled for a tech conference in Paris."&lt;SEP&gt;"John Smith is the CEO of Apple and has announced the opening of a new retail store in Beijing."&lt;SEP&gt;"John Smith is the CEO of Google and attended a conference in San Francisco."&lt;SEP&gt;"John Smith is the CEO of Microsoft and chair of the World Economic Forum's Sustainable Future Council."&lt;SEP&gt;"John Smith is the CEO of TechWorld. He is invited to speak at the International Technology Conference in New York City."</data>
+  <data key="d2">chunk-ac3e13449781a7a9d2144156354fe1e2&lt;SEP&gt;chunk-52cd744cb6c57581cbb22eb7d1c69b8a&lt;SEP&gt;chunk-9151ed253e05c263e0ed4632b7ff1a22&lt;SEP&gt;chunk-1b7e66c9cb5cc32c5bd39236040db834&lt;SEP&gt;chunk-c3cdd8efeaa566881735aca6a412e189</data>
+</node>
+<node id="&quot;GREENWAVE&quot;">
+  <data key="d0">"INITIATIVE"</data>
+  <data key="d1">"GreenWave is an initiative launched by Microsoft aimed at reducing carbon emissions and promoting sustainable practices."</data>
+  <data key="d2">chunk-1b7e66c9cb5cc32c5bd39236040db834</data>
+</node>
+<node id="&quot;平安智慧城市&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安智慧城市是平安集团的城市智能化业务部门，专注于智慧城市建设和相关服务。"</data>
+  <data key="d2">chunk-8dbcccca6cb2770d54f116ac3f9d491f</data>
+</node>
+<node id="&quot;SECURITY ENHANCEMENT&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"Security enhancement refers to the improved security features included in the Windows 11 update."</data>
+  <data key="d2">chunk-7061a87c0cda9c275efac88baa1c26fa</data>
+</node>
+<node id="&quot;MALWAREBYTES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Malwarebytes is a cybersecurity firm that tested the Windows 11 update."</data>
+  <data key="d2">chunk-7061a87c0cda9c275efac88baa1c26fa</data>
+</node>
+<node id="&quot;JEFF BEZOS&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Jeff Bezos is the founder and CEO of Amazon and founded Blue Origin."}</data>
+  <data key="d2">chunk-61d732b03fb6c3397db5c300f5acccd8</data>
+</node>
+<node id="&quot;马云&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"马云是一家公司的创始人，对互联网金融有深入见解。"</data>
+  <data key="d2">chunk-9d07ac7c8aa4780e7a88d241d899ad06</data>
+</node>
+<node id="&quot;MICROSOFT CORP.&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Microsoft Corp. is an organization based in Redmond, Washington, that recently launched a new operating system, Windows 11."</data>
+  <data key="d2">chunk-ad0dc2ffd5afd21e3d83f2ac017e207e</data>
+</node>
+<node id="&quot;马化腾&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"马化腾是腾讯公司的创始人，对互联网金融也有自己的看法。"</data>
+  <data key="d2">chunk-9d07ac7c8aa4780e7a88d241d899ad06</data>
+</node>
+<node id="&quot;WASHINGTON&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Washington is a state where Redmond is located."</data>
+  <data key="d2">chunk-ad0dc2ffd5afd21e3d83f2ac017e207e</data>
+</node>
+<node id="&quot;众安保险&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"众安保险是一家互联网保险公司，依赖于平安集团的线下资源。"</data>
+  <data key="d2">chunk-9d07ac7c8aa4780e7a88d241d899ad06</data>
+</node>
+<node id="&quot;REDMOND&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Redmond is a city where Microsoft Corp. is headquartered."&lt;SEP&gt;"Redmond is a city where Microsoft is headquartered and is part of King County, Washington."</data>
+  <data key="d2">chunk-2cf33c172d2b916200827867d3ea9669&lt;SEP&gt;chunk-ad0dc2ffd5afd21e3d83f2ac017e207e</data>
+</node>
+<node id="&quot;互联网保险&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"互联网保险是指利用互联网技术进行的保险业务。"</data>
+  <data key="d2">chunk-9d07ac7c8aa4780e7a88d241d899ad06</data>
+</node>
+<node id="&quot;WINDOWS 11&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"Windows 11 is a new operating system recently launched by Microsoft Corp."&lt;SEP&gt;"Windows 11 is a new operating system update released by Microsoft with major security enhancements."&lt;SEP&gt;"Windows 11 is the name of the software update released by Microsoft in October 2021."</data>
+  <data key="d2">chunk-2cf33c172d2b916200827867d3ea9669&lt;SEP&gt;chunk-7061a87c0cda9c275efac88baa1c26fa&lt;SEP&gt;chunk-ad0dc2ffd5afd21e3d83f2ac017e207e</data>
+</node>
+<node id="&quot;TESLA, INC.&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Tesla, Inc. is a significant organization in the electric vehicle industry, announced the release of its new Model S car and expanding its Supercharger network."</data>
+  <data key="d2">chunk-1192c6f8108f5c206a73b860835a1938</data>
+</node>
+<node id="&quot;马明哲&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Ma Mingzhe is the chairman of Ping An who is driving the comprehensive financial reforms and transformation."&lt;SEP&gt;"马明哲是平安的创始人和领导者，强调企业承担的社会责任和初心。"&lt;SEP&gt;"马明哲是平安集团的一位高层管理者，负责推动公司在互联网领域的转型和战略思考。"&lt;SEP&gt;"马明哲是平安集团的创始人和董事长，他强调文化和战略的重要性。"&lt;SEP&gt;"马明哲是平安集团的董事长，负责公司的整体战略和协调工作。"</data>
+  <data key="d2">chunk-35d3a2f8dc59e3a45f3b27e28bb668ce&lt;SEP&gt;chunk-fd6c7bb6bb091e7114b67c174d099a73&lt;SEP&gt;chunk-9d07ac7c8aa4780e7a88d241d899ad06&lt;SEP&gt;chunk-d3c39435b9696478b47bb617c1bfcb0e&lt;SEP&gt;chunk-25bb87c67cc108cd81048327986711f1</data>
+</node>
+<node id="**GOOGLE**">
+  <data key="d0">**ORGANIZATION**</data>
+  <data key="d1">"Google is a well-known technology company that has launched a new AI product called Bard."</data>
+  <data key="d2">chunk-12073a76a31a95e567736533c70ded7e</data>
+</node>
+<node id="&quot;哈佛商学院&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"哈佛商学院是一所著名商学院，教授们曾经来平安探讨成功原因。"</data>
+  <data key="d2">chunk-25bb87c67cc108cd81048327986711f1</data>
+</node>
+<node id="**BARD**">
+  <data key="d0">**TECHNOLOGY**</data>
+  <data key="d1">"Bard is a new AI product launched by Google, a competitor to Siri and Alexa."</data>
+  <data key="d2">chunk-12073a76a31a95e567736533c70ded7e</data>
+</node>
+<node id="&quot;招商局&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"招商局是平安的第二大股东之一，为平安带来了航运业务背景。"&lt;SEP&gt;"招商局是民族工商业的先驱，成立于1872年，作为洋务运动的一部分。它是‘以商务立富强之基’的产物，通过设立轮船招商局开始轮运业务。"</data>
+  <data key="d2">chunk-000c924fc0cdc2aa6b397dd3bbad3b79&lt;SEP&gt;chunk-35d3a2f8dc59e3a45f3b27e28bb668ce</data>
+</node>
+<node id="**APPLE**">
+  <data key="d0">**ORGANIZATION**</data>
+  <data key="d1">"Apple is a prominent technology company that produces a voice assistant called Siri."</data>
+  <data key="d2">chunk-12073a76a31a95e567736533c70ded7e</data>
+</node>
+<node id="&quot;JOHN DOE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"John Doe is a representative of Apple."&lt;SEP&gt;"John Doe is a representative of TechCorp and attended the International Conference on Artificial Intelligence in San Francisco."&lt;SEP&gt;"John Doe is a seasoned cybersecurity expert with a career at TechPro Solutions."&lt;SEP&gt;"John Doe is a senior executive at Google, leading a team to develop an algorithm for mobile devices."&lt;SEP&gt;"John Doe is a software engineer at Microsoft."&lt;SEP&gt;"John Doe is the CEO of Microsoft Corp."&gt;</data>
+  <data key="d2">chunk-0da3c6ef69446974917fb323e3c4995c&lt;SEP&gt;chunk-a6936838bb78975724497a66236ec546&lt;SEP&gt;chunk-ad0dc2ffd5afd21e3d83f2ac017e207e&lt;SEP&gt;chunk-5c6e86afeee52d3d327f1ca96ff588e4&lt;SEP&gt;chunk-35a30ff8794c4b5f9daa312b7b86b4b4&lt;SEP&gt;chunk-0370bf2691e978730b8fdffbf6920681</data>
+</node>
+<node id="**SIRI**">
+  <data key="d0">**TECHNOLOGY**</data>
+  <data key="d1">"Siri is a voice assistant developed by Apple."</data>
+  <data key="d2">chunk-12073a76a31a95e567736533c70ded7e</data>
+</node>
+<node id="&quot;CALIFORNIA&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"California is a state in the United States where Apple is headquartered and Tim Cook was born."</data>
+  <data key="d2">chunk-c98645789d8974ab966b15d59a45cb98</data>
+</node>
+<node id="&quot;GOOGLE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Google is a leading technology company known for developing the Android operating system and other software and hardware products. Its recent announcement includes new features on its operating system, and it is seeking to enhance privacy and introduce strong AI integration."&lt;SEP&gt;"Google is a tech company celebrating its 20th anniversary and was founded by Larry Page and Sergey Brin."&lt;SEP&gt;"Google is a tech company that has been expanding rapidly and recently made a significant acquisition."&lt;SEP&gt;"Google is a technology company that launched a new product called Pixel 7 and organizes events like I/O 2023."&lt;SEP&gt;"Google is a technology company with headquarters in Mountain View, California, and it has launched new AI projects."|</data>
+  <data key="d2">chunk-24eef0a1881685ca0b332e338686d462&lt;SEP&gt;chunk-1dd79362f51e60c0045d1e94ef794c04&lt;SEP&gt;chunk-ac3e13449781a7a9d2144156354fe1e2&lt;SEP&gt;chunk-3d5a805d8b01e79c1915e454a02c1807&lt;SEP&gt;chunk-4aad7a7360dd7d42d89712d13592102b</data>
+</node>
+<node id="&quot;SAN DIEGO&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"San Diego is a city in California where Tim Cook was born."</data>
+  <data key="d2">chunk-c98645789d8974ab966b15d59a45cb98</data>
+</node>
+<node id="&quot;花旗&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"花旗是一家国际金融机构，特别指的是Jonathan Larsen曾任职的公司。"</data>
+  <data key="d2">chunk-25bb87c67cc108cd81048327986711f1</data>
+</node>
+<node id="&quot;AUBURN UNIVERSITY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Auburn University is where Tim Cook graduated."</data>
+  <data key="d2">chunk-c98645789d8974ab966b15d59a45cb98</data>
+</node>
+<node id="&quot;JONATHAN LARSEN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Jonathan Larsen是花旗全球零售银行前总裁，现为平安集团首席创新官。"</data>
+  <data key="d2">chunk-25bb87c67cc108cd81048327986711f1</data>
+</node>
+<node id="&quot;ALICE JOHNSON&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Alice Johnson is a software developer at TechCorp and met John Smith in Paris during the tech conference."</data>
+  <data key="d2">chunk-9151ed253e05c263e0ed4632b7ff1a22</data>
+</node>
+<node id="&quot;平安集团&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安集团是一家大型金融机构，正在推动互联网金融战略转型。"&lt;SEP&gt;"平安集团是中国的一家综合性金融集团，由马明哲领导，以其创新文化和环境著称。"</data>
+  <data key="d2">chunk-9d07ac7c8aa4780e7a88d241d899ad06&lt;SEP&gt;chunk-25bb87c67cc108cd81048327986711f1</data>
+</node>
+<node id="&quot;孙中山先生&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"孙中山先生是提到的一位具有远大志向的历史人物。"</data>
+  <data key="d2">chunk-72979448471bed223c310bfe09e2675a</data>
+</node>
+<node id="&quot;TESLA&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Tesla is a car manufacturer focusing on electric vehicles, planning to expand in China and partnering with Sangfor to set up new factories."&lt;SEP&gt;"Tesla is a leading company in the electric vehicle industry, headquartered in Palo Alto, California, and has been expanding rapidly into autonomous driving technology."&lt;SEP&gt;"Tesla is an electric car company that operates in multiple countries and is also known for its partnership with Samsung and its founder, Elon Musk."</data>
+  <data key="d2">chunk-d228ec0f6b0aca94ad487745501eb211&lt;SEP&gt;chunk-6e7ae58cc0468a6690ecef741e97c783&lt;SEP&gt;chunk-17272e2acdf30eb0255daf177da98e1d</data>
+</node>
+<node id="&quot;IPHONE 13&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"iPhone 13 is a smartphone release by Apple Inc."</data>
+  <data key="d2">chunk-e538d5c17da674ba742cfb4c42e451cd</data>
+</node>
+<node id="&quot;ELON MUSK&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Elon Musk is the CEO of Tesla, known to have a significant influence on the company's operations and strategies."</data>
+  <data key="d2">chunk-17272e2acdf30eb0255daf177da98e1d</data>
+</node>
+<node id="&quot;SAN FRANCISCO&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"San Francisco, California is a city in the United States where the press event was held."</data>
+  <data key="d2">chunk-e538d5c17da674ba742cfb4c42e451cd</data>
+</node>
+<node id="&quot;SANGFOR&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Sangfor is a local Chinese company partnering with Tesla to set up new factories."</data>
+  <data key="d2">chunk-17272e2acdf30eb0255daf177da98e1d</data>
+</node>
+<node id="&quot;鹰&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"鹰象征着雄心和活力，但在描述中提到的鹰是死的，没有雄心和活力。"</data>
+  <data key="d2">chunk-e1a70527356ea36b71cfcca7ea0cb39d</data>
+</node>
+<node id="&quot;ORANGE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Orange is a French technology company in partnership with Google."</data>
+  <data key="d2">chunk-0a06a83cd7caf3c2cbe5bbaaf9963619</data>
+</node>
+<node id="&quot;第一种人&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"第一种人指的是那些应该给予充分鼓励的人，即使遇到挫折也不应放弃对他们的支持。"</data>
+  <data key="d2">chunk-e1a70527356ea36b71cfcca7ea0cb39d</data>
+</node>
+<node id="&quot;ROCKET LAKE CPU&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"Rocket Lake CPU is a new CPU product by Intel that outperforms their previous Cascade Lake product."</data>
+  <data key="d2">chunk-f4ab149fa450fc2201fa7cb710001b71</data>
+</node>
+<node id="&quot;第二种人&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"第二种人指的是那些被动等待的人，需要主动、热情的帮助他们冲破束缚。"</data>
+  <data key="d2">chunk-e1a70527356ea36b71cfcca7ea0cb39d</data>
+</node>
+<node id="&quot;NOVEMBER 13, 2015&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"November 13, 2015 is the date of a terrorist attack in Paris."</data>
+  <data key="d2">chunk-07cd4d0adf8e41d651020703b7299f2a</data>
+</node>
+<node id="&quot;第三种人&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"第三种人指的是躺着、靠着、原地踏步的人，需要被激发行动起来。"</data>
+  <data key="d2">chunk-e1a70527356ea36b71cfcca7ea0cb39d</data>
+</node>
+<node id="&quot;2021&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"2021 is a future year and the expected year for the Rocket Lake CPU to dominate the market."</data>
+  <data key="d2">chunk-f4ab149fa450fc2201fa7cb710001b71</data>
+</node>
+<node id="&quot;陆金所&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"陆金所是一家互联网金融平台，涉及P2P贷款和普惠金融业务。"</data>
+  <data key="d2">chunk-6d1b7b2ba86e549ac1fddfa594f51963</data>
+</node>
+<node id="&quot;国际化新进程&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"国际化新进程是指平安在国际化的过程中引入外资、借鉴外体、吸引外脑的战略。"</data>
+  <data key="d2">chunk-07f4b894576699d97bd1b17b74af60f4</data>
+</node>
+<node id="&quot;IPHONE 13 PRO&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"iPhone 13 Pro is a product released by Apple with an advanced M1 chip."</data>
+  <data key="d2">chunk-59c9be5b657386fde3cd0454256363a8</data>
+</node>
+<node id="&quot;平安&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Ping An is a major financial services company that is implementing comprehensive reforms and strategic changes to enhance its market competitiveness."&lt;SEP&gt;"平安全资成立的公益组织，长期从事教育和扶贫项目。"&lt;SEP&gt;"平安是一家在改革开放初期扎根深圳的企业，经历了从无到有，从小到大，以及多次战略转型。"&lt;SEP&gt;"平安是中国的一家保险公司，致力于国际化战略的实施和发展。"&lt;SEP&gt;"平安是中国的一家大型保险金融集团，以其活力和危机感著称。"</data>
+  <data key="d2">chunk-35d3a2f8dc59e3a45f3b27e28bb668ce&lt;SEP&gt;chunk-e1a70527356ea36b71cfcca7ea0cb39d&lt;SEP&gt;chunk-650b23c2058fb4b858232e7b47bdd41f&lt;SEP&gt;chunk-fd6c7bb6bb091e7114b67c174d099a73&lt;SEP&gt;chunk-07f4b894576699d97bd1b17b74af60f4</data>
+</node>
+<node id="&quot;BARACK OBAMA&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Barack Obama is the 44th President of the United States and has been involved in civil rights movements. He was born in Honolulu, Hawaii and served from 2009 to 2017."</data>
+  <data key="d2">chunk-243e11144d65e91efef137b1559078b8</data>
+</node>
+<node id="&quot;PRESIDENT OF THE UNITED STATES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The President of the United States is a role held by Joe Biden."</data>
+  <data key="d2">chunk-1e36b2601a964166b619cb781cc8d605</data>
+</node>
+<node id="&quot;44TH PRESIDENT OF THE UNITED STATES&quot;">
+  <data key="d0">"POSITION"</data>
+  <data key="d1">"44th President of the United States describes a political position held by Barack Obama."</data>
+  <data key="d2">chunk-243e11144d65e91efef137b1559078b8</data>
+</node>
+<node id="&quot;GLOBAL ELECTRIC VEHICLE MARKET&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"The Global Electric Vehicle Market is the target for Tesla's expansion and market share increase."</data>
+  <data key="d2">chunk-17272e2acdf30eb0255daf177da98e1d</data>
+</node>
+<node id="&quot;人保&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"人保是中国人民保险公司深圳特区分公司的简称。"</data>
+  <data key="d2">chunk-80cd34974e49f8bac154712d9a0ecc50</data>
+</node>
+<node id="&quot;JANE SMITH&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Jane Smith founded TechPro Solutions, a leading cybersecurity firm."&lt;SEP&gt;"Jane Smith led the project for the new operating system, Windows 11."</data>
+  <data key="d2">chunk-a6936838bb78975724497a66236ec546&lt;SEP&gt;chunk-ad0dc2ffd5afd21e3d83f2ac017e207e</data>
+</node>
+<node id="&quot;UNITED NATIONS (UN)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The United Nations is a major international organization involved in initiating global efforts such as combating climate change."</data>
+  <data key="d2">chunk-70f69d16d095223a83de40838b3be742</data>
+</node>
+<node id="&quot;外资&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"外资指的是平安引入的境外战略投资者。"</data>
+  <data key="d2">chunk-07f4b894576699d97bd1b17b74af60f4</data>
+</node>
+<node id="&quot;平安好车&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安好车是一家曾经被放弃的项目。"</data>
+  <data key="d2">chunk-686f4de9508b2fac4b6727e3264d3fcf</data>
+</node>
+<node id="&quot;IPHONE&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"The iPhone is an innovative product developed by Apple."</data>
+  <data key="d2">chunk-ed279b469a2dea54474f0408f441a33a</data>
+</node>
+<node id="&quot;外体&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"外体指的是平安学习借鉴的国际化的公司治理结构。"</data>
+  <data key="d2">chunk-07f4b894576699d97bd1b17b74af60f4</data>
+</node>
+<node id="&quot;LINKEDIN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"LinkedIn is an American business-oriented social networking site that was founded by Reid Hoffman."</data>
+  <data key="d2">chunk-6cc3cbf1d8f982d9afae0875003d64bc</data>
+</node>
+<node id="&quot;NETFLIX&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Netflix is the organization that released the hit series 'Stranger Things' in 2016."</data>
+  <data key="d2">chunk-f2aacab7ca899cd0d60ad8f9155b8849</data>
+</node>
+<node id="&quot;REID HOFFMAN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Reid Hoffman is the founder of LinkedIn."</data>
+  <data key="d2">chunk-6cc3cbf1d8f982d9afae0875003d64bc</data>
+</node>
+<node id="&quot;CUPERTINO, CALIFORNIA&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Cupertino, California is the headquarters of Apple."&lt;SEP&gt;"Cupertino, California is the headquarters of the multinational technology company, Apple."</data>
+  <data key="d2">chunk-06d71bcfe60de9abc55d68d2329e3535&lt;SEP&gt;chunk-b1e05528f6759f9f96c4f3f2055979ad&lt;SEP&gt;chunk-ed279b469a2dea54474f0408f441a33a</data>
+</node>
+<node id="&quot;ENTERPRISE SOFTWARE MARKET&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"Enterprise software market refers to the market focused on business applications that help enterprise organizations manage and improve core business processes."</data>
+  <data key="d2">chunk-6cc3cbf1d8f982d9afae0875003d64bc</data>
+</node>
+<node id="&quot;TECHPRO SOLUTIONS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"TechPro Solutions is a leading cybersecurity firm founded by Jane Smith."</data>
+  <data key="d2">chunk-a6936838bb78975724497a66236ec546</data>
+</node>
+<node id="&quot;BEIJING&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Beijing is the capital city of China where Apple has an office and plans to open a new retail store."</data>
+  <data key="d2">chunk-c3cdd8efeaa566881735aca6a412e189</data>
+</node>
+<node id="&quot;中国&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"中国是平安的总部所在国，也是其业务的主要市场。"</data>
+  <data key="d2">chunk-35d3a2f8dc59e3a45f3b27e28bb668ce</data>
+</node>
+<node id="&quot;RETAIL STORE&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"This refers to the physical store or shop designed to sell products to the public."</data>
+  <data key="d2">chunk-c3cdd8efeaa566881735aca6a412e189</data>
+</node>
+<node id="&quot;麦肯锡&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"麦肯锡是一个咨询公司，平安曾与其合作，但很多合作并不成功。"</data>
+  <data key="d2">chunk-07f4b894576699d97bd1b17b74af60f4</data>
+</node>
+<node id="&quot;GIT&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"Git is a version control system used by GitHub for its services."</data>
+  <data key="d2">chunk-dd7aeb4c8d171b630b3ae7b7a4e1d658</data>
+</node>
+<node id="&quot;深圳&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"深圳是平安扎根的地方，是一个充满生机活力的城市。"</data>
+  <data key="d2">chunk-35d3a2f8dc59e3a45f3b27e28bb668ce</data>
+</node>
+<node id="&quot;STEVE JOBS&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Steve Jobs is an influential figure who co-founded Apple Inc. and founded Pixar."&lt;SEP&gt;"Steve Jobs is the founder of Apple and passed away in 2011 after a long battle with pancreatic cancer."&lt;SEP&gt;"Steve Jobs was one of the founders of Apple and played a crucial role in its early development and the introduction of the iPhone."&lt;SEP&gt;"Steve Jobs was one of the founders of Apple and was involved in the founding of the company in 1976."</data>
+  <data key="d2">chunk-69d3b312bd530f2c8076dc8284264411&lt;SEP&gt;chunk-b1e05528f6759f9f96c4f3f2055979ad&lt;SEP&gt;chunk-ed279b469a2dea54474f0408f441a33a&lt;SEP&gt;chunk-bd5bf9a9df0a373de6409662ee7c7090</data>
+</node>
+<node id="&quot;CUPERTINO&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Cupertino is a city in California where Apple is headquartered."&lt;SEP&gt;"Cupertino is the headquarters location of Apple, an American multinational technology company."</data>
+  <data key="d2">chunk-69d3b312bd530f2c8076dc8284264411&lt;SEP&gt;chunk-c98645789d8974ab966b15d59a45cb98</data>
+</node>
+<node id="&quot;CASCADE LAKE&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"Cascade Lake is Intel's previous CPU product that the Rocket Lake CPU is expected to outperform."</data>
+  <data key="d2">chunk-f4ab149fa450fc2201fa7cb710001b71</data>
+</node>
+<node id="&quot;JOE BIDEN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Joe Biden is the President of the United States."</data>
+  <data key="d2">chunk-1e36b2601a964166b619cb781cc8d605</data>
+</node>
+<node id="&quot;外脑&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"外脑指的是平安吸纳的境外专家人才。"</data>
+  <data key="d2">chunk-07f4b894576699d97bd1b17b74af60f4</data>
+</node>
+<node id="&quot;袁庚&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"袁庚是招商局的创始人之一，在蛇口工业区创造了第二次辉煌，以‘敢为天下先’的精神进行全面改革。"</data>
+  <data key="d2">chunk-000c924fc0cdc2aa6b397dd3bbad3b79</data>
+</node>
+<node id="&quot;MICROSOFT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Microsoft is a multinational technology company that recently acquired LinkedIn."&lt;SEP&gt;"Microsoft is a multinational technology company with John Smith as its CEO."&lt;SEP&gt;"Microsoft is a tech company known for its Windows operating system, announcing a new release during CES."&lt;SEP&gt;"Microsoft is a technology company hosting a software conference and collaborating on AI projects."&lt;SEP&gt;"Microsoft is a technology company that acquired GitHub, enhancing its cloud services portfolio."&lt;SEP&gt;"Microsoft is a technology company that announced the acquisition of GitHub."&lt;SEP&gt;"Microsoft is a technology company that introduced the new Windows 11 update with major security enhancements."&lt;SEP&gt;"Microsoft is an international technology company known for its software and hardware products."</data>
+  <data key="d2">chunk-dd7aeb4c8d171b630b3ae7b7a4e1d658&lt;SEP&gt;chunk-6d99078186d797fb25c7a614545e65df&lt;SEP&gt;chunk-cc252fab9b3acf5023500acc7c16448b&lt;SEP&gt;chunk-6ff35bf39af6f9e3be5e987b8bc036d4&lt;SEP&gt;chunk-0a1922bbc8116239109c89b0e2091571&lt;SEP&gt;chunk-6cc3cbf1d8f982d9afae0875003d64bc&lt;SEP&gt;chunk-7061a87c0cda9c275efac88baa1c26fa&lt;SEP&gt;chunk-1b7e66c9cb5cc32c5bd39236040db834</data>
+</node>
+<node id="&quot;CUSTOMERS&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"Customers are the end users or clients of the companies' software solutions."</data>
+  <data key="d2">chunk-cc252fab9b3acf5023500acc7c16448b</data>
+</node>
+<node id="&quot;蛇口工业区&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"蛇口工业区是中国新中国成立后建立的第一个对外开放的工业区，1979年因改革开放首批破土动工。"</data>
+  <data key="d2">chunk-000c924fc0cdc2aa6b397dd3bbad3b79</data>
+</node>
+<node id="&quot;DEFENSE DEPARTMENT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Defense Department is a government organization that has contracted TechPro Solutions for security protocol development."</data>
+  <data key="d2">chunk-a6936838bb78975724497a66236ec546</data>
+</node>
+<node id="&quot;CHRIS WANSTRATH&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Chris Wanstrath is a co-founder of GitHub and previously worked at Flipboard."</data>
+  <data key="d2">chunk-0a1922bbc8116239109c89b0e2091571</data>
+</node>
+<node id="&quot;平安医疗健康管理股份有限公司&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安医疗健康管理股份有限公司是一家平安医保科技公司，愿景是革新中国的医疗市场。该公司致力于管理和优化分级诊疗服务体系。"</data>
+  <data key="d2">chunk-140b84f2100d1c5d24c0b87fa0f03527</data>
+</node>
+<node id="&quot;TIM COOK&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Tim Cook is the CEO of Apple and is expected to be present at the upcoming event."&lt;SEP&gt;"Tim Cook is the CEO of Apple and was born in San Diego, California."&lt;SEP&gt;"Tim Cook is the CEO of Apple."</data>
+  <data key="d2">chunk-06d71bcfe60de9abc55d68d2329e3535&lt;SEP&gt;chunk-c98645789d8974ab966b15d59a45cb98&lt;SEP&gt;chunk-b1e05528f6759f9f96c4f3f2055979ad</data>
+</node>
+<node id="&quot;WARSHAW&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Warsaw is a city in Poland."</data>
+  <data key="d2">chunk-1e36b2601a964166b619cb781cc8d605</data>
+</node>
+<node id="&quot;FLIPBOARD&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Flipboard is a company that Chris Wanstrath previously worked for."</data>
+  <data key="d2">chunk-0a1922bbc8116239109c89b0e2091571</data>
+</node>
+<node id="&quot;OCTOBER 2021&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"October 2021 is the specific month and year when the Windows 11 update was released."&lt;SEP&gt;"October 2021 marks the release date of the Windows 11 update."</data>
+  <data key="d2">chunk-7061a87c0cda9c275efac88baa1c26fa&lt;SEP&gt;chunk-2cf33c172d2b916200827867d3ea9669</data>
+</node>
+<node id="&quot;PARIS&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Paris is a city where a terrorist attack took place on November 13, 2015."</data>
+  <data key="d2">chunk-07cd4d0adf8e41d651020703b7299f2a</data>
+</node>
+<node id="&quot;UNITED STATES&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"United States is the country where GitHub is based."</data>
+  <data key="d2">chunk-cc252fab9b3acf5023500acc7c16448b</data>
+</node>
+<node id="&quot;UPCOMING EVENT&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The upcoming event is scheduled for next month and will unveil new products and is significant in the technology industry."</data>
+  <data key="d2">chunk-06d71bcfe60de9abc55d68d2329e3535</data>
+</node>
+<node id="&quot;CHINA&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"China is the country where Tesla is planning to expand its operations."</data>
+  <data key="d2">chunk-17272e2acdf30eb0255daf177da98e1d</data>
+</node>
+<node id="&quot;APPLE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Apple is a multinational technology company based in Cupertino, California. It was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976 and is known for its main product, the iPhone, released in 2007."&lt;SEP&gt;"Apple is a tech company founded by Steve Jobs in 1976 and is known for innovative products like the iPhone, MacBook, and iPad."&lt;SEP&gt;"Apple is a tech company that has announced the release of the latest iPhone 13 model."}&lt;SEP&gt;"Apple is a technology company based in the USA, known for its devices and services. Tim Cook is its CEO."&lt;SEP&gt;"Apple is a technology company that released the iPhone 15 on September 19, 2023."&lt;SEP&gt;"Apple is a technology giant headquartered in Cupertino, California, and is planning to launch a line of electric vehicles."&lt;SEP&gt;"Apple is a well-known technology company that has offices and retail stores around the world."&lt;SEP&gt;"Apple is an American multinational technology company headquartered in Cupertino, California. It was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne. Apple introduced the iPhone in 2007, which revolutionized the smartphone market. The iPhone is now one of the most popular smartphones in the world."&lt;SEP&gt;"Apple is an American tech company headquartered in Cupertino, California, and is about to unveil new products."&lt;SEP&gt;"Apple is an American technology company headquartered in Cupertino, California."&lt;SEP&gt;"Apple is an organization that released the iPhone 13 Pro and the M1 chip, focusing on enhancing product performance."</data>
+  <data key="d2">chunk-69d3b312bd530f2c8076dc8284264411&lt;SEP&gt;chunk-b1e05528f6759f9f96c4f3f2055979ad&lt;SEP&gt;chunk-d49376fec8d3e2207095d8a9754e14cc&lt;SEP&gt;chunk-59c9be5b657386fde3cd0454256363a8&lt;SEP&gt;chunk-06d71bcfe60de9abc55d68d2329e3535&lt;SEP&gt;chunk-6a1895a332805d4e099796108f0981c0&lt;SEP&gt;chunk-c98645789d8974ab966b15d59a45cb98&lt;SEP&gt;chunk-78d776b2c9e55c70a659b20cb092bbb0&lt;SEP&gt;chunk-c3cdd8efeaa566881735aca6a412e189&lt;SEP&gt;chunk-4dc78722e29e720e446b6cda5a6a82d3&lt;SEP&gt;chunk-ed279b469a2dea54474f0408f441a33a</data>
+</node>
+<node id="&quot;GITHUB&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GitHub is a popular platform for software development that Microsoft is acquiring."&lt;SEP&gt;"GitHub is a service for version control using Git, known for its software development platform."&lt;SEP&gt;"GitHub is a web-based hosting service for version control using Git and is now owned by Microsoft."</data>
+  <data key="d2">chunk-dd7aeb4c8d171b630b3ae7b7a4e1d658&lt;SEP&gt;chunk-cc252fab9b3acf5023500acc7c16448b&lt;SEP&gt;chunk-0a1922bbc8116239109c89b0e2091571</data>
+</node>
+<node id="&quot;POLAND&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Poland is a country where the meeting took place."</data>
+  <data key="d2">chunk-1e36b2601a964166b619cb781cc8d605</data>
+</node>
+<node id="&quot;APPLE INC.&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Apple Inc. is a leading technology company and Tim Cook's employer."&lt;SEP&gt;"Apple Inc. is a leading technology company based in Cupertino, California, known for innovation in mobile devices."&lt;SEP&gt;"Apple Inc. is a major technology company based in Cupertino, California, known for developing and selling consumer electronics, computer software, and online services. It has products such as iPhone, iPad, Mac, and Apple Watch."&lt;SEP&gt;"Apple Inc. is a multinational technology company headquartered in Cupertino, California."&lt;SEP&gt;"Apple Inc. is a technology company that announced the release of their new iPhone 13."</data>
+  <data key="d2">chunk-e538d5c17da674ba742cfb4c42e451cd&lt;SEP&gt;chunk-c4ea37a65ced5bc77f64388d3626599f&lt;SEP&gt;chunk-255f8b13a21e3aeddbf4853fe87debc6&lt;SEP&gt;chunk-25a06cc7b924806f1842c4c00e281c3d&lt;SEP&gt;chunk-bd5bf9a9df0a373de6409662ee7c7090</data>
+</node>
+<node id="&quot;INTEL&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Intel is a technology company that has announced the release of the latest version of their Rocket Lake CPU and plans to expand its operations to Europe."</data>
+  <data key="d2">chunk-f4ab149fa450fc2201fa7cb710001b71</data>
+</node>
+<node id="&quot;中国工商银行&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"中国工商银行是平安的第二大股东之一，为平安带来了金融背景。"</data>
+  <data key="d2">chunk-35d3a2f8dc59e3a45f3b27e28bb668ce</data>
+</node>
+<node id="&quot;AMAZON&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Amazon is a technology company that has launched the Echo Plus and is at the forefront of smart home technology."</data>
+  <data key="d2">chunk-2b4219e6af75f764df960ab774e29fe4</data>
+</node>
+<node id="&quot;EUROPE&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Europe is the target region for Intel’s planned expansion of operations."</data>
+  <data key="d2">chunk-f4ab149fa450fc2201fa7cb710001b71</data>
+</node>
+<node id="&quot;130 PEOPLE&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"130 people were killed in the terrorist attack."</data>
+  <data key="d2">chunk-07cd4d0adf8e41d651020703b7299f2a</data>
+</node>
+<node id="&quot;STEVE WOZNIAK&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Steve Wozniak is an influential figure who co-founded Apple Inc. with Steve Jobs."&lt;SEP&gt;"Steve Wozniak was one of the founders of Apple and played a significant role in the initial development of the Apple brand."</data>
+  <data key="d2">chunk-69d3b312bd530f2c8076dc8284264411&lt;SEP&gt;chunk-bd5bf9a9df0a373de6409662ee7c7090</data>
+</node>
+<node id="&quot;代理人&quot;(">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Agents within Ping An who sell various financial products and are part of the cross-selling strategy."</data>
+  <data key="d2">chunk-fd6c7bb6bb091e7114b67c174d099a73</data>
+</node>
+<edge source="&quot;CUPERTINO, CALIFORNIA&quot;" target="&quot;APPLE&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Apple is headquartered in Cupertino, California."</data>
+  <data key="d5">"headquarters"</data>
+  <data key="d6">chunk-06d71bcfe60de9abc55d68d2329e3535</data>
+</edge>
+</graph></graphml>
