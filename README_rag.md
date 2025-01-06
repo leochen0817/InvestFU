@@ -143,6 +143,14 @@ return response.choices[0].message.content
 
 
 ## LightRAG 知识库
+两种实现方法：
+* 调用siliconflow API
+* 使用ollama模型
+
+两种方法代码均上传，但实体和关系抓取和生成结果使用ollama效果更好。
+
+
+### siliconflow API
 调用硅基云API访问使用 `BAAI/bge-m3` 向量嵌入模型和`Qwen/Qwen2.5-7B-Instruct` LLM模型，对指定路径文件读取文本嵌入、存储RAG。  
 首先，删除工作目录清除旧数据：  
 ```py
@@ -176,3 +184,75 @@ print(rag.query("your-question", param=QueryParam(mode="hybrid")))
 RAG检索结果：
 ![RAG检索结果](./assets/rag_query.png)
 
+
+### 使用ollama模型
+步骤：  
+1. 安装、启动ollama
+2. ollama pull 模型
+3. lightRAG使用ollama模型的代码
+4. RAG检索
+```py
+# 文本切块
+def split_text_by_max_token(text, max_token):
+    """
+    按 max_token 切分大文本
+    :param text: 输入的文本
+    :param max_token: 每个文本块的最大 token 数
+    :return: 切分后的文本列表
+    """
+    words = text.split()
+    chunks = []
+    current_chunk = []
+    current_token_count = 0
+
+    for word in words:
+        current_chunk.append(word)
+        current_token_count += 1
+
+        if current_token_count >= max_token:
+            chunks.append(" ".join(current_chunk))
+            current_chunk = []
+            current_token_count = 0
+
+    if current_chunk:
+        chunks.append(" ".join(current_chunk))
+
+    return chunks
+
+
+# 定义
+rag = LightRAG(
+    working_dir=WORKING_DIR,
+    llm_model_func=ollama_model_complete,
+    llm_model_name="qwen2.5:7b",
+    llm_model_max_token_size=32768,
+    llm_model_kwargs={"host": "http://localhost:11434", "options": {"num_ctx": 32768}},
+
+    embedding_func=EmbeddingFunc(
+        embedding_dim=1024,
+        max_token_size=8192,
+        func=lambda texts: ollama_embedding(
+            texts, embed_model="bge-m3", host="http://localhost:11434"
+        ),
+    ),
+)
+
+# 插入知识库
+file_path = 'XXX.pdf'
+text_content = textract.process(file_path).decode('utf-8')
+chunks = split_text_by_max_token(text_content, max_token=32768)
+for chunk in chunks:
+    rag.insert(chunk)
+
+#检索, mode: naive\local\global\hybrid
+print(rag.query("your-question", param=QueryParam(mode="hybrid")))
+```
+
+
+问题：
+1. 如果遇到embedding报错，需要先做大文本切分分块；
+2. 如果遇到`an error was encountered while running the model: GGML_ASSERT(stat == cudaSuccess) failed`报错，GPU显存不足，本项目运行使用A100满卡运行。
+
+
+RAG检索结果：
+![RAG检索结果](./assets/ollama_result.png)

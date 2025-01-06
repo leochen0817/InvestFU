@@ -1,0 +1,1403 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d4" for="edge" attr.name="description" attr.type="string"/>
+<key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;调整后(1) 营业收入&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"调整后(1) 营业收入指的是公司在调整后的财务报表中报告的营业收入数据。"</data>
+  <data key="d2">chunk-67f071429084df26e138e2c6a7615344</data>
+</node>
+<node id="&quot;代理人人均新业务价值增长89.5%&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"代理人的业绩表现是平安银行衡量业务发展的重要指标之一，反映了个人客户的需求和服务效果。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;归属于母公司股东权益 899,011&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"归属于母公司股东权益是指公司净资产中归属于母公司的部分，这里是具体的金额数。"</data>
+  <data key="d2">chunk-67f071429084df26e138e2c6a7615344</data>
+</node>
+<node id="&quot;13个月保单继续率同比上升2.5个百分点&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"13个月保单继续率是衡量保险公司业务稳定性和客户满意度的重要指标。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;2023 年度报告摘要&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"2023 年度报告摘要是指公司在一年结束后发布的年度财务总结和分析文件。"</data>
+  <data key="d2">chunk-67f071429084df26e138e2c6a7615344</data>
+</node>
+<node id="&quot;综合金融模式&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"综合金融模式是平安银行提供的全方位金融服务，包括多种产品和一站式服务。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;营业收入 913,789&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"营业收入是公司通过日常经营活动中产生的收入总额，这里是具体的金额数。"</data>
+  <data key="d2">chunk-67f071429084df26e138e2c6a7615344</data>
+</node>
+<node id="&quot;财产保险业务收入&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"财产保险业务收入是衡量保险公司经营状况的重要指标之一，反映了其在风险管理方面的能力和贡献。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;归属于母公司股东的净利润 85,665&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"归属于母公司股东的净利润是指公司在扣除所有费用后的利润中归属于母公司的部分。"</data>
+  <data key="d2">chunk-67f071429084df26e138e2c6a7615344</data>
+</node>
+<node id="&quot;2022年年度数据&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"2022年年度数据指的是公司上一个财年的财务数据。"</data>
+  <data key="d2">chunk-67f071429084df26e138e2c6a7615344</data>
+</node>
+<node id="&quot;金融工作政治性、人民性&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"金融工作的政治性和人民性是平安银行在执行其职责时所坚持的原则。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;平安寿险&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安寿险是一家经营寿险业务的企业，主要通过其代理渠道进行业务拓展。公司报告了新业务价值、代理人活动率及收入等数据。"&lt;SEP&gt;"平安寿险是公司的一个子公司，负责经营寿险及健康险业务。该组织持续深化‘4 渠道+3 产品’战略，提升渠道建设和业务质量。"&lt;SEP&gt;"平安寿险是平安集团的一个子公司，专注于人寿保险业务。"&lt;SEP&gt;"平安寿险是平安集团的一个部门，涉及人寿和健康保险业务。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba&lt;SEP&gt;chunk-a6fb96c58872bc40b34548228f0a897c&lt;SEP&gt;chunk-7156d37905ebc1cc83f5de47f6055656&lt;SEP&gt;chunk-ac8582f25522360a920b52b5636f87e4</data>
+</node>
+<node id="&quot;经营活动产生的现金流量净额 360,403&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"经营活动产生的现金流量净额是公司日常经营活动所产生和使用的现金流入与流出之间的差额。"</data>
+  <data key="d2">chunk-67f071429084df26e138e2c6a7615344</data>
+</node>
+<node id="&quot;集团合并归母净利润 85,665&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"集团合并归母净利润是公司在合并报表中的归母净利润，这里是具体的金额数。"</data>
+  <data key="d2">chunk-67f071429084df26e138e2c6a7615344</data>
+</node>
+<node id="&quot;综合金融战略&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"综合金融战略是平安银行的核心发展战略之一，涵盖了多个业务板块的协同效应。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;2021年年度数据&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"2021年年度数据指的是公司在前一年的财务数据。"</data>
+  <data key="d2">chunk-67f071429084df26e138e2c6a7615344</data>
+</node>
+<node id="&quot;CHINA平安&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"China平安是一家综合性金融机构，在科技和保险领域拥有强大的研发能力和市场地位，致力于为客户提供全方位的服务。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;归属于母公司股东的营运利润(1) 117,989&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"归属于母公司股东的营运利润是指公司扣除所有费用后的营业利润中归属于母公司的部分，这里是具体的金额数。"</data>
+  <data key="d2">chunk-67f071429084df26e138e2c6a7615344</data>
+</node>
+<node id="&quot;2023年12月31日&quot;">
+  <data key="d0">"DATE"</data>
+  <data key="d1">"这是一个时间点，指出了公司在该日期的具体情况。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;每股股息（人民币元）2.43&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"每股股息是指公司向每位普通股股东发放的股息数额，这里具体指的是每股2.43元。"</data>
+  <data key="d2">chunk-67f071429084df26e138e2c6a7615344</data>
+</node>
+<node id="&quot;科技开发人员、科学家团队&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"这个团队是平安公司的重要组成部分，负责科技研发和创新。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;51,533项专利申请&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"这是指公司在2023年12月31日时的专利申请数量，反映了公司的技术创新能力。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;集团综合偿付能力充足率 208.0% &quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"集团综合偿付能力充足率是衡量保险公司资本充足程度的重要指标，这里是具体的百分比数据。"</data>
+  <data key="d2">chunk-67f071429084df26e138e2c6a7615344</data>
+</node>
+<node id="&quot;平安AI坐席服务量&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"这是指在2023年平安公司AI坐席的服务次数，是衡量客户服务和技术应用的一个指标。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;账通&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"账通（纽交所股票代码：OCFT；联交所股票代码：06638.HK）是一家通过‘技术+业务’模式帮助客户提升效率、提升服务、降低成本、降低风险，实现数字化转型的公司。2023年经营持续优化，减亏显著，公司资金充裕。"</data>
+  <data key="d2">chunk-b05c94a3aba33eac54215d2e35690fb5</data>
+</node>
+<node id="&quot;医疗健康专利申请数&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"这是指公司在2023年12月31日时的医疗健康领域的专利申请数量，反映了公司在该领域创新的努力。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;马明哲&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"马明哲为中国平安保险（集团）股份有限公司董事长。"</data>
+  <data key="d2">chunk-b05c94a3aba33eac54215d2e35690fb5</data>
+</node>
+<node id="&quot;医疗数据库&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"这是一个大型的数据资源库，用于支持平安公司的医疗科技研发和业务运营。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;综合成本率&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"综合成本率是指保险公司每获得一单位保费所支付的成本，包括赔付支出、费用和其他费用等。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;远程诊疗平台&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"这是一个由平安公司构建的在线医疗服务平台，旨在提供便捷的医疗服务。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;车险&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"车险是平安产险提供的主要保险类型之一，其综合成本率较低且优于市场平均水平。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;国家信赖、国民喜欢、与时俱进的民族品牌&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"这是指平安公司的品牌形象和市场定位，强调其在社会中的重要性和持续改进的决心。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;2023年&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"2023年是报告所指的时间段，在这一年中，平安集团的各项业务均取得了显著的业绩增长和管理成果。"&lt;SEP&gt;"The year 2023 is mentioned multiple times, referring to the financial data reported for that specific year."</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91&lt;SEP&gt;chunk-00b9af5b5db5c159f6ad1f7d644d4ac2</data>
+</node>
+<node id="&quot;全球保险品牌价值100强榜单第1位&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"这是指公司在2023年的排名情况，反映了其在全球保险市场的地位。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;《财富》世界500强第33位、全球保险企业第1位&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"这些是公司的具体排名和市场位置，展示了平安在经济和金融领域的竞争力。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;香港中央结算（代理人）有限公司&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"香港中央结算（代理人）有限公司是H股非登记股东所持股份的名义持有人。"&lt;SEP&gt;"香港中央结算（代理人）有限公司是股东之一。"</data>
+  <data key="d2">chunk-930fdfad475de8c6f2358d825b1113a8&lt;SEP&gt;chunk-ac8582f25522360a920b52b5636f87e4</data>
+</node>
+<node id="&quot;2024年&quot;">
+  <data key="d0">"DATE"</data>
+  <data key="d1">"这是一个时间点，指出了未来的计划和发展方向。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;深圳市投资控股有限公司&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"深圳市投资控股有限公司是报告中提到的一个组织。"</data>
+  <data key="d2">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</node>
+<node id="&quot;风、雨常态，迎难而上&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"这是对未来挑战的描述，强调平安公司面对困难时的态度和决心。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;中国证券金融股份有限公司&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"中国证券金融股份有限公司是股东之一。"</data>
+  <data key="d2">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</node>
+<node id="&quot;平安保险资金投资组合&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安保险资金投资组合指公司在投资方面的整体策略和执行情况，其表现优良，综合投资收益率上升。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;香发控股有限公司&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"香发控股有限公司是报告中提到的另一个组织。"</data>
+  <data key="d2">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</node>
+<node id="&quot;2023年净利润464.55亿元&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"这一数值表示了平安银行在2023年的财务业绩，增长率为2.1%。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;中央汇金资产管理有限责任公司&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"中央汇金资产管理有限责任公司是股东之一。"</data>
+  <data key="d2">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</node>
+<node id="&quot;平安医疗养老生态圈&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安医疗养老生态圈是一个综合性的服务体系，涵盖金融、医疗和科技等多个业务条线，旨在为客户提供全面的服务解决方案。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;中国车险及财产险第一品牌&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"这一称号代表了平安产险在市场上拥有极高的声誉和竞争力。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;长期服务计划&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"长期服务计划是一种特定类型的投资或保险计划。"&lt;SEP&gt;"长期服务计划是公司为员工设立的薪酬福利方案。"</data>
+  <data key="d2">chunk-930fdfad475de8c6f2358d825b1113a8&lt;SEP&gt;chunk-ac8582f25522360a920b52b5636f87e4</data>
+</node>
+<node id="&quot;个人客户&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"个人客户指平安集团面向的普通消费者群体，涵盖了广泛的产品和服务需求。"&lt;SEP&gt;"个人客户是平安的主要服务对象，涉及多种金融和非金融服务。"&lt;SEP&gt;"个人客户是平安银行的主要目标群体，涉及多种金融服务。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91&lt;SEP&gt;chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;深业集团有限公司&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"深业集团有限公司是报告中提到的一个组织。"</data>
+  <data key="d2">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</node>
+<node id="&quot;交叉迁徙总人次&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"交叉迁徙总人次表示个人客户在不同业务线之间的迁移情况，反映了客户黏性和交叉销售的效果。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;资产质量&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"资产质量反映了公司金融资产的风险状况。"</data>
+  <data key="d2">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;大成基金－农业银行&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"大成基金－农业银行是一家参与投资的企业。"&lt;SEP&gt;"大成基金－农业银行是股东之一。"</data>
+  <data key="d2">chunk-930fdfad475de8c6f2358d825b1113a8&lt;SEP&gt;chunk-ac8582f25522360a920b52b5636f87e4</data>
+</node>
+<node id="&quot;4个及以上合同的客户&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"这些客户持有集团内多个产品和服务合同，表明他们与平安集团的关系较为密切和稳定。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;不良贷款率&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"不良贷款率是衡量金融机构风险管理水平的重要指标之一，平安的不良贷款率较低，显示其风险控制能力较强。"&lt;SEP&gt;"不良贷款率衡量了组织信贷资产的风险水平。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91&lt;SEP&gt;chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;华夏基金－农业银行&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"华夏基金－农业银行也是一家参与投资的企业。"&lt;SEP&gt;"华夏基金－农业银行是股东之一。"</data>
+  <data key="d2">chunk-930fdfad475de8c6f2358d825b1113a8&lt;SEP&gt;chunk-ac8582f25522360a920b52b5636f87e4</data>
+</node>
+<node id="&quot;中产及以上客户&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"这一群体指的是收入较高的个人客户，他们在平安集团的各项服务中具有较高的消费能力和贡献度。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;拨备覆盖率&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"拨备覆盖率反映了组织对可能的坏账损失准备金的充足程度。"&lt;SEP&gt;"拨备覆盖率指银行为可能发生的贷款损失准备的资金与不良贷款之比，平安的高拨备覆盖率表明其有足够的资本抵御潜在的风险。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91&lt;SEP&gt;chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;平安&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安指中国平安保险（集团）股份有限公司，是提供多种金融服务的大型企业。"&lt;SEP&gt;"平安是一家以科技和金融服务为主的企业集团，涵盖资产管理、金融科技等多个业务领域。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca&lt;SEP&gt;chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;家庭医生&quot;">
+  <data key="d0">"ROLE"</data>
+  <data key="d1">"家庭医生是指为客户提供个性化医疗服务的专业医疗人员。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;平安证券&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安证券是平安集团的一个子公司，主要从事证券相关业务。"&lt;SEP&gt;"平安证券是平安集团的证券公司子公司，提供多种金融服务。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba&lt;SEP&gt;chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;个人存款&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"个人存款是组织吸收的资金类型之一。"</data>
+  <data key="d2">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;养老管家&quot;">
+  <data key="d0">"ROLE"</data>
+  <data key="d1">"养老管家是帮助客户管理养老服务的专门服务人员。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;平安信托&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安信托也是平安集团的一个子公司，主要提供信托服务。"&lt;SEP&gt;"平安信托是平安集团的信托子公司，主要从事信托投资和管理业务。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba&lt;SEP&gt;chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;企业存款&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"企业存款是组织吸收的另一种资金类型。"</data>
+  <data key="d2">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;高净值客户的客均合同数&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"该数值衡量了高净值客户的平均合同持有数量，反映了这些高端客户的忠诚度和价值贡献。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;资产管理规模&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"资产管理规模反映了公司在资产管理业务中的资产总值。"</data>
+  <data key="d2">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;个人贷款&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"个人贷款是组织发放给个人的信贷产品。"</data>
+  <data key="d2">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;AI坐席&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"AI坐席利用人工智能技术提供客户服务，提升服务效率和质量。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;陆金所控股&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"陆金所控股是平安集团旗下的一个成员公司，主要从事金融和科技相关业务。"&lt;SEP&gt;"陆金所控股是平安集团的一个科技金融子公司。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba&lt;SEP&gt;chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;平安养老险&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安养老险也是公司的子公司之一，参与经营寿险及健康险业务。它通过提供保险加服务的产品来加深在健康养老领域的布局。“&lt;SEP&gt;"平安养老险是平安集团的子公司之一，专注于养老保险业务。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba&lt;SEP&gt;chunk-a6fb96c58872bc40b34548228f0a897c</data>
+</node>
+<node id="&quot;平安健康&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安健康以家庭医生会员制为核心，依托丰富、优质的O2O服务网络，打造专业、全面、高质量的一站式‘医疗+养老’服务平台，为用户提供省心、省时、又省钱的医疗服务。2023年实现营业收入46.74亿元，净亏损同比下降49.3%至3.23亿元，累计付费用户数近4,000万。"&lt;SEP&gt;"平安健康是平安集团旗下的一个成员公司，主要提供健康医疗服务。"&lt;SEP&gt;"平安健康是平安集团的医疗健康管理平台。"&lt;SEP&gt;"平安健康是集团旗下的医疗服务平台，提供在线医疗服务和健康管理等。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba&lt;SEP&gt;chunk-b05c94a3aba33eac54215d2e35690fb5&lt;SEP&gt;chunk-d36bd7e67f654e34277b156577b65d91&lt;SEP&gt;chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;汽车之家&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"汽车之家持续推进‘生态化’战略升级，全方位服务消费者、主机厂和汽车生态各类参与者。2023年实现营业收入71.84亿元，净利润21.60亿元，移动端日均用户量达到6,819万。"&lt;SEP&gt;"汽车之家是一家提供汽车信息和交易的平台，与平安有合作关系。"&lt;SEP&gt;"汽车之家是一家独立的上市公司，与平安集团有合作关系，主要提供汽车相关信息和服务。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba&lt;SEP&gt;chunk-b05c94a3aba33eac54215d2e35690fb5&lt;SEP&gt;chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;平安金管家&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安金管家是一款综合金融服务APP，为客户提供便捷的金融产品和服务。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;金融壹账通&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"金融壹账通也是平安集团的一个子公司，主要提供金融科技服务。"&lt;SEP&gt;"金融壹账通是平安集团旗下的一家金融科技公司，提供多种金融服务和解决方案。"&lt;SEP&gt;"金融壹账通通过‘技术+业务’模式，帮助客户提升效率、提升服务、降低成本、降低风险，实现数字化转型。2023年经营持续优化，减亏显著，公司资金充裕。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba&lt;SEP&gt;chunk-b05c94a3aba33eac54215d2e35690fb5&lt;SEP&gt;chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;平安口袋银行&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"平安口袋银行是移动银行业务平台，提供多种金融和非金融服务给客户。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;个人寿险销售代理人&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"个人寿险销售代理人是参与平安寿险销售的人员，负责推广和销售保险产品。"</data>
+  <data key="d2">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</node>
+<node id="&quot;平安好车主&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安好车主是一款针对汽车用户的综合服务平台，提供保险、维修等多项服务。"</data>
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</node>
+<node id="&quot;股东总数（户）990,870（其中境内股东 986,615）&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"这个类别描述了报告期末的股东数量及其分布情况。"</data>
+  <data key="d2">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</node>
+<node id="&quot;大成中证金融资产管理计划&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"大成中证金融资产管理计划是另一家参与投资的机构。"</data>
+  <data key="d2">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</node>
+<node id="&quot;华夏中证金融资产管理计划&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"华夏中证金融资产管理计划也是参与投资的企业之一。"</data>
+  <data key="d2">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</node>
+<node id="&quot;平安产险&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安产险是一家经营财产保险业务的企业，其主要业务包括车险、企财险等，并且连续多年获得相关奖项。"&lt;SEP&gt;"平安产险是平安集团的一个保险业务部门，其主要负责财产保险服务收入的增长和综合成本率的控制。"&lt;SEP&gt;"平安产险是平安集团的另一个子公司，主要经营财产保险业务。"&lt;SEP&gt;"平安产险是提供保险服务的专业机构。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba&lt;SEP&gt;chunk-d36bd7e67f654e34277b156577b65d91&lt;SEP&gt;chunk-d6761430ed14e814a7c3316c385b21ca&lt;SEP&gt;chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</node>
+<node id="&quot;商发控股有限公司&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"商发控股有限公司属于卜蜂集团有限公司间接全资持股子公司，持有公司H股。"</data>
+  <data key="d2">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</node>
+<node id="&quot;13个月保单继续率(2023年) &quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"13个月保单继续率是衡量保险公司保单稳定性的指标之一，指在一年中持续有效的保单占总保单的比例。"</data>
+  <data key="d2">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</node>
+<node id="&quot;卜蜂集团有限公司&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"卜蜂集团有限公司是通过商发控股有限公司间接持有本公司股份的集团。"</data>
+  <data key="d2">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</node>
+<node id="&quot;代理人渠道&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"代理人渠道是公司通过保险代理人销售产品的销售渠道之一。“&lt;SEP&gt;"代理人渠道是平安银行的主要业务渠道之一，涉及大量的个人客户和小微企业主。"</data>
+  <data key="d2">chunk-a6fb96c58872bc40b34548228f0a897c&lt;SEP&gt;chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;保单继续率(2023年) &quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"保单继续率是衡量保险公司保单稳定性的指标，指在一定时期内持续有效的保单占总保单的比例。"</data>
+  <data key="d2">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</node>
+<node id="&quot;中国平安&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"中国平安是一家综合性金融保险企业，在2023年取得了一系列业绩。"&lt;SEP&gt;"中国平安是一家致力于成为国际领先的综合金融、医疗养老服务提供商的公司。它积极响应国家政策，坚守主业，提供多项金融服务和产品。"</data>
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d&lt;SEP&gt;chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</node>
+<node id="&quot;平安健康险&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安健康险同样是公司的一部分，负责健康险的运营和销售工作，并且与平安寿险一起推动了‘综合金融+医疗养老’战略的发展。"&lt;SEP&gt;"平安健康险是平安集团的一个子公司，专门从事健康保险业务。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba&lt;SEP&gt;chunk-a6fb96c58872bc40b34548228f0a897c</data>
+</node>
+<node id="&quot;保单继续率(2022年) &quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"保单继续率是衡量保险公司保单稳定性的指标，指在一定时期内持续有效的保单占总保单的比例。"</data>
+  <data key="d2">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</node>
+<node id="&quot;H股&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"H股是指公司发行的在香港联合交易所上市的股票。"</data>
+  <data key="d2">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</node>
+<node id="&quot;代理人人均新业务价值&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"代理人人均新业务价值是衡量代理人业绩的一个关键指标，反映了人均产生的新业务价值。“</data>
+  <data key="d2">chunk-a6fb96c58872bc40b34548228f0a897c</data>
+</node>
+<node id="&quot;综合成本率(2023年) &quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"综合成本率是指保险公司在报告期内发生的费用和赔付总额与保费收入的比率。"</data>
+  <data key="d2">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</node>
+<node id="&quot;A股股东性质&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"A股股东性质指的是在沪深交易所登记注册的股东类型。"</data>
+  <data key="d2">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</node>
+<node id="&quot;综合成本率(2022年) &quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"综合成本率是指保险公司在报告期内发生的费用和赔付总额与保费收入的比率。"</data>
+  <data key="d2">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</node>
+<node id="&quot;本公司&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"指代中国平安，是中国最大的综合金融集团之一。"</data>
+  <data key="d2">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</node>
+<node id="&quot;营运利润(2023年) &quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"营运利润是指保险公司扣除营业费用后的净利润，反映了公司的经营成果。"</data>
+  <data key="d2">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</node>
+<node id="&quot;沪股通&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"沪股通是指连接上海证券交易所和香港联合交易所有限公司的投资渠道。"</data>
+  <data key="d2">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</node>
+<node id="&quot;营运ROE(%) (2023年) &quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"营运ROE（净资产收益率）是衡量公司盈利能力的重要指标，反映每单位资本带来的收益。"</data>
+  <data key="d2">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</node>
+<node id="&quot;本公司保险资金投资组合&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"This refers to the investment portfolio managed by a company, focusing on value investing and long-term strategies."</data>
+  <data key="d2">chunk-00b9af5b5db5c159f6ad1f7d644d4ac2</data>
+</node>
+<node id="&quot;13个月保单继续率(2022年) &quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"13个月保单继续率是衡量保险公司保单稳定性的指标之一，指在一年中持续有效的保单占总保单的比例。"</data>
+  <data key="d2">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</node>
+<node id="&quot;平安银行&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Ping An Bank is described as a retail-focused bank with strategic goals and operations in various business areas such as retail banking, corporate banking, and financial services."&lt;SEP&gt;"平安银行是一家提供多种金融服务的金融机构。"&lt;SEP&gt;"平安银行是平安集团旗下的一家商业银行。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba&lt;SEP&gt;chunk-d6761430ed14e814a7c3316c385b21ca&lt;SEP&gt;chunk-00b9af5b5db5c159f6ad1f7d644d4ac2</data>
+</node>
+<node id="&quot;净投资收益率(4)&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"Net Investment Yield (4), a financial metric used to evaluate the profitability of an investment portfolio."</data>
+  <data key="d2">chunk-00b9af5b5db5c159f6ad1f7d644d4ac2</data>
+</node>
+<node id="&quot;净利润&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"净利润是公司在一定时期内的经营成果，反映了公司的盈利能力。“</data>
+  <data key="d2">chunk-a6fb96c58872bc40b34548228f0a897c</data>
+</node>
+<node id="&quot;综合投资收益率(4)&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"Comprehensive Investment Return Rate (4), another financial metric for evaluating the overall performance of an investment strategy."</data>
+  <data key="d2">chunk-00b9af5b5db5c159f6ad1f7d644d4ac2</data>
+</node>
+<node id="&quot;3.9万亿元风险保障&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"3.9万亿元风险保障指为多个项目提供的巨额保险覆盖。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;一带一路&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"一带一路是国家发展战略的一部分，涉及基础设施建设和国际合作。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;数字化转型需求&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"这是指未来的发展趋势和技术应用方向，强调平安公司要抓住机遇进行创新。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;4 渠道+3 产品战略&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"4 渠道+3 产品战略是指一种业务策略，强调通过四个渠道和三种产品的组合来提升业务的覆盖面和深度，旨在优化销售渠道并提高客户满意度。“</data>
+  <data key="d2">chunk-a6fb96c58872bc40b34548228f0a897c</data>
+</node>
+<node id="&quot;粤港澳大湾区建设&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"粤港澳大湾区建设是中国的一项国家战略规划，涉及经济发展和区域合作。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;平安资产管理&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安资产管理负责公司的资产管理和投资活动。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;安徽阜南的小芦蒿&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"安徽阜南的小芦蒿是农业产品。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;平安融资租赁&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安融资租赁是平安集团旗下一家租赁服务公司。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;小微企业主&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"小微企业主指经营小型企业的个人或团队。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;中国平安保险（集团）股份有限公司&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"中国平安保险坚持客户为中心的经营理念，深耕个人客户，持续推进综合金融战略，打造有温度的金融服务品牌，提供一站式综合金融解决方案。2023年个人业务营运利润由‘三数’驱动增长，即个人客户数、客均合同数和客均利润。截至2023年末，公司个人客户数2.32亿，客均持有合同2.95个；2023年公司客均营运利润497.64元。"&lt;SEP&gt;"中国平安保险（集团）股份有限公司是一家大型保险公司，其子公司包括平安寿险等。"</data>
+  <data key="d2">chunk-b05c94a3aba33eac54215d2e35690fb5&lt;SEP&gt;chunk-ac8582f25522360a920b52b5636f87e4</data>
+</node>
+<node id="&quot;公司&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"公司指的是一个企业实体，专注于金融业务，并且致力于服务实体经济。公司在2023年执行了一系列经营方针来提升自身竞争力和满足市场需求。“</data>
+  <data key="d2">chunk-a6fb96c58872bc40b34548228f0a897c</data>
+</node>
+<node id="&quot;骑手&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"骑手指的是快递、外卖等行业的工作者。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;2023 年年度报告&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"2023 年年度报告是公司在 2024 年 3 月 21 日审议通过的年度财务总结报告。"</data>
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</node>
+<node id="&quot;安永华明会计师事务所（特殊普通合伙）&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"安永华明会计师事务所（特殊普通合伙）对公司的年度财务报告进行了审计，并出具了标准无保留意见的审计报告。"</data>
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</node>
+<node id="&quot;2023年年度报告摘要&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"2023 年度报告摘要是指公司在一年结束后发布的年度财务总结和分析文件。"&lt;SEP&gt;"2023年年度报告摘要是公司发布的一份总结性文件，概述了公司在过去一年的业绩和战略实施情况。”“&lt;SEP&gt;"2023年年度报告摘要是公司在年末发布的财务和业务总结文件。"</data>
+  <data key="d2">chunk-a6fb96c58872bc40b34548228f0a897c&lt;SEP&gt;chunk-b65a11dd884ba94f56a65cde06cf1663&lt;SEP&gt;chunk-67f071429084df26e138e2c6a7615344</data>
+</node>
+<node id="&quot;西藏比如县的20万头牦牛&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"西藏比如县的20万头牦牛也属于农业和畜牧业的一部分。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;董事会秘书&quot;">
+  <data key="d0">"ROLE"</data>
+  <data key="d1">"董事会秘书负责处理公司与外界的信息沟通，协助公司规范运作和信息披露。在本例中为盛瑞生。"</data>
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</node>
+<node id="&quot;平安集团&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安集团是公司母公司，负责整体战略部署和运营。“&lt;SEP&gt;"平安集团是报告中提到的一个主要组织。"&lt;SEP&gt;"平安集团是涵盖保险、银行和医疗健康等多个业务条线的大型金融企业。"</data>
+  <data key="d2">chunk-a6fb96c58872bc40b34548228f0a897c&lt;SEP&gt;chunk-d36bd7e67f654e34277b156577b65d91&lt;SEP&gt;chunk-ac8582f25522360a920b52b5636f87e4</data>
+</node>
+<node id="&quot;新市民&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"新市民通常指从农村迁移到城市，或在城市中生活不满一定年限的群体。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;投资回报率&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"投资回报率是衡量公司投资效益的重要指标，反映了公司的资产管理能力。“</data>
+  <data key="d2">chunk-a6fb96c58872bc40b34548228f0a897c</data>
+</node>
+<node id="&quot;2.32亿规模的客户群体&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"这是一个描述客户数量的重要数据点，反映了公司在市场中的广度和深度。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;股东大会&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"股东大会是公司的最高权力机构，负责审议批准公司的重大决策事项，如利润分配建议等。"</data>
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</node>
+<node id="&quot;沈潇潇&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"沈潇潇是公司的证券事务代表，协助处理公司与外界的信息沟通。"</data>
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</node>
+<node id="&quot;企业贷款&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"企业贷款是组织发放给企业的信贷产品。"</data>
+  <data key="d2">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</node>
+<node id="&quot;平安居家养老服务&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"平安居家养老服务是为老年人提供的一站式服务项目。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;深圳市福田区益田路 5033 号平安金融中心 47、48、108、109、110、111、112 层&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"这是公司董事会秘书和证券事务代表的办公地址。"</data>
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</node>
+<node id="&quot;盛瑞生&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"盛瑞生是公司的董事会秘书，负责与外界的信息沟通和信息披露。"</data>
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</node>
+<node id="&quot;京津冀暴雨洪涝&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"京津冀暴雨洪涝是一种极端天气事件，影响当地居民生活和财产安全。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;上海证券交易所&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"上海证券交易所是公司的股票上市交易场所之一，A股在此上市。"</data>
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</node>
+<node id="&quot;东北寒潮暴雪&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"东北寒潮暴雪也是一种自然灾害事件。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;甘肃积石山地震&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"甘肃积石山地震是区域性的自然灾害，影响当地居民的生命和财产安全。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;新业务价值率&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"新业务价值率是衡量公司业务质量的一个重要指标，反映了每单位保费带来的新业务价值。“</data>
+  <data key="d2">chunk-a6fb96c58872bc40b34548228f0a897c</data>
+</node>
+<node id="&quot;三村工程&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"三村工程是一个由平安银行发起的社会扶贫项目，旨在帮助农村、乡村和村庄的发展。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;香港联合交易所有限公司&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"香港联合交易所有限公司是公司H股的上市交易场所。"</data>
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</node>
+<node id="&quot;安徽省阜南县&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"安徽省阜南县是中国的一个县级行政区，是农业和扶贫工作的重要区域。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;2023 年中期已分配股息每股人民币 0.93 元（含税）,共计人民币 16,840,107,055.35 元（含税）&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"公司在2023年中期已经分配了股息，共计人民币16,840,107,055.35元。"</data>
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</node>
+<node id="&quot;西藏比如县&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"西藏比如县是中国西藏自治区的一个县级行政区，也是平安实施扶贫项目的地区之一。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;公司董事会建议，向本公司股东派发公司 2023 年末期股息每股现金人民币 1.50 元（含税）&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"公司董事会提议在2023年末发放每股现金人民币1.50元的股息。"</data>
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</node>
+<node id="&quot;103.22万小微企业主&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"103.22万小微企业主是平安服务的主要客户群体之一，涉及金融服务和业务支持。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;《企业会计准则第 25 号— —保险合同》（“新保险合同准则”或“新准则”）&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"新的保险合同准则于2023年1月1日开始采用，并对同期报表进行了追溯调整。"</data>
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</node>
+<node id="&quot;1,178.82亿元扶贫及产业振兴帮扶资金&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"1,178.82亿元扶贫及产业振兴帮扶资金是平安投入的大额资金，用于支持贫困地区的发展。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;回购专用证券账户上的本公司 A 股股份&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"这是指公司回购专用账户中的A股股份，这些股份不参与末期股息派发。"</data>
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</node>
+<node id="&quot;综合金融+医疗养老战略&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"综合金融+医疗养老战略是中国平安的发展战略，旨在提供全面的金融服务和健康管理。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;保险+服务产品&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"保险+服务产品是一种创新的业务模式，结合了保险保障和相关服务，旨在为客户提供全方位的服务体验。“</data>
+  <data key="d2">chunk-a6fb96c58872bc40b34548228f0a897c</data>
+</node>
+<node id="&quot;金融综合账户&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"金融综合账户是平安提供的一种金融服务，帮助客户实现一站式多渠道的服务体验。"</data>
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</node>
+<node id="&quot;综合金融+医疗养老服务体系&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"这是指平安公司未来的发展方向，旨在通过结合金融和医疗服务来满足客户的需求。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;有利条件强于不利因素&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"这是一个长期经济趋势的描述，反映了公司在未来发展的乐观态度。"</data>
+  <data key="d2">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</node>
+<node id="&quot;平安健康、汽车之家等成员公司&quot;">
+  <data key="d2">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+  <data key="d1">"这些子公司共同推动平安集团的科技和金融业务的发展。&lt;span style="color: #FF0000;"&gt;（修改为实际关系描述）&lt;/span&gt;"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;科技业务&quot;">
+  <data key="d2">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+  <data key="d1">"这些子公司共同推动平安集团的科技和金融业务的发展。&lt;span style="color: #FF0000;"&gt;（修改为实际关系描述）&lt;/span&gt;"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;2023 年中期已分配股息&quot;">
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+  <data key="d1">"中期股息的发放是公司年度财务报告的一部分。"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;2023 年年度报告摘要&quot;">
+  <data key="d2">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+  <data key="d1">"中期股息的发放是公司年度财务报告的一部分。"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;客户&quot;">
+  <data key="d2">chunk-d36bd7e67f654e34277b156577b65d91</data>
+  <data key="d1">"该生态系统通过服务多个业务条线，为客户提供全面的服务解决方案，增强客户黏性。"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;股东持股情况&quot;">
+  <data key="d2">chunk-ac8582f25522360a920b52b5636f87e4</data>
+  <data key="d1">"香港中央结算（代理人）有限公司持有中国平安保险（集团）股份有限公司的股票。"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;净投资收益(1)&quot;">
+  <data key="d2">chunk-00b9af5b5db5c159f6ad1f7d644d4ac2</data>
+  <data key="d1">"Net Investment Income (1) contributes to the Comprehensive Investment Return Rate (4)."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;资产管理业务&quot;">
+  <data key="d2">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+  <data key="d1">"平安通过平安证券、平安信托等公司开展资产管理业务。"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;第一接触&quot;">
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+  <data key="d1">"小微企业主是平安银行服务的主要对象之一，涉及金融服务和业务支持。"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;平安证券、平安信托等公司&quot;">
+  <data key="d2">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+  <data key="d1">"这些子公司为平安的资产管理业务提供了支持和运营能力。&lt;span style="color: #FF0000;"&gt;（修改为实际关系描述）&lt;/span&gt;"&lt;SEP&gt;"这些子公司是平安开展资产管理业务的主要载体。&lt;span style="color: #FF0000;"&gt;（修改为实际关系描述）&lt;/span&gt;"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;200万亿元风险保障总额&quot;">
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+  <data key="d1">"平安产险为小微企业提供了巨额保险覆盖以确保其正常运营，反映了企业风险管理的重要作用。&lt;br&gt;此金额体现了其在保障小微企业方面的重要贡献。"&lt;SEP&gt;"平安产险在执行政治性和人民性的原则下提供了全面的保险覆盖。&lt;br&gt;此金额体现了其在服务社会和保障人民利益方面的重要作用。"&lt;SEP&gt;"平安产险提供的保险覆盖了广泛的领域，包括企业的风险管理。&lt;br&gt;此金额反映了其在为企业提供保险服务方面的投入和贡献。"&lt;SEP&gt;"平安产险的财产保险业务收入增长体现了其在风险管理方面的实力。&lt;br&gt;此金额反映了其在为客户提供全面服务方面的努力。"&lt;SEP&gt;"平安产险通过不同渠道为小微企业提供了巨额保险覆盖。&lt;br&gt;此金额体现了其在风险管理方面的重要作用。"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;研发和自主知识产权掌控&quot;">
+  <data key="d2">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+  <data key="d1">"公司在科技领域进行了大量研发投入，并控制着多项专利技术。&lt;span style="color: #FF0000;"&gt;（修改为实际关系描述）&lt;/span&gt;"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;安徽省阜南县的小芦蒿&quot;">
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+  <data key="d1">"小芦蒿是当地农业产品，可能通过平安的金融服务增加销售渠道和市场影响力。&lt;br&gt;这体现了平安在助力农村经济发展中的作用。"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;西藏比如县的牦牛耳标&quot;">
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+  <data key="d1">"牦牛养殖是当地特色产业，通过平安提供的服务和保障支持其市场拓展。&lt;br&gt;这体现了平安在助力贫困地区产业发展中的作用。"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;寿险及健康险业务&quot;">
+  <data key="d2">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+  <data key="d1">"13个月保单继续率的提升反映了代理人在寿险及健康险业务中的努力和成效。&lt;br&gt;这体现了平安在提高服务质量方面的成功尝试。"&lt;SEP&gt;"代理人在促进寿险及健康险业务中的业绩表现反映了个人客户的保险需求。&lt;br&gt;这体现了平安在满足客户需求方面所做的努力和成效。"&lt;SEP&gt;"寿险及健康险业务中代理人的成绩体现了个人客户的保险需求。&lt;br&gt;这反映了平安在满足客户需求方面所做的努力和取得的成效。"&lt;SEP&gt;"寿险及健康险业务中的业绩增长体现了代理人在实施综合金融战略中的努力和成效。&lt;br&gt;这反映了平安在提供多元金融服务方面的成功尝试。"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<edge source="&quot;归属于母公司股东权益 899,011&quot;" target="&quot;2023年年度报告摘要&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"年度报告是公司对过去一年财务状况的总结和分析，而归母股东权益反映了公司的净资产情况。这两者都属于公司在年报中披露的重要信息。"</data>
+  <data key="d5">"financial report, equity"</data>
+  <data key="d6">chunk-67f071429084df26e138e2c6a7615344</data>
+</edge>
+<edge source="&quot;营业收入 913,789&quot;" target="&quot;归属于母公司股东的净利润 85,665&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"营业收入直接影响公司的净利润，较高的收入通常意味着更高的净利润。但这里净利润有所下降，表明成本或费用增加或其他因素影响了利润。"</data>
+  <data key="d5">"revenue, profit"</data>
+  <data key="d6">chunk-67f071429084df26e138e2c6a7615344</data>
+</edge>
+<edge source="&quot;归属于母公司股东的净利润 85,665&quot;" target="&quot;归属于母公司股东的营运利润(1) 117,989&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"归母营运利润和归母净利润都反映了公司的经营状况，但前者是扣除费用后的营业利润，后者是税后净收益。两者都是衡量公司盈利能力的重要指标。"</data>
+  <data key="d5">"operating profit, net profit"</data>
+  <data key="d6">chunk-67f071429084df26e138e2c6a7615344</data>
+</edge>
+<edge source="&quot;归属于母公司股东的净利润 85,665&quot;" target="&quot;经营活动产生的现金流量净额 360,403&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"经营活动产生的现金流是公司运营活动带来的资金流动，直接影响公司的净利润。虽然现金流量较高，但净利润下降表明可能有非经营性因素影响了公司的利润状况。"</data>
+  <data key="d5">"cash flow, profit"</data>
+  <data key="d6">chunk-67f071429084df26e138e2c6a7615344</data>
+</edge>
+<edge source="&quot;归属于母公司股东的净利润 85,665&quot;" target="&quot;集团综合偿付能力充足率 208.0% &quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"较高的综合偿付能力充足率通常意味着公司资本充足，能够更好地应对风险。而高利润可以增加公司的财务稳定性，有助于提高偿付能力。"</data>
+  <data key="d5">"capital adequacy, profitability"</data>
+  <data key="d6">chunk-67f071429084df26e138e2c6a7615344</data>
+</edge>
+<edge source="&quot;平安寿险&quot;" target="&quot;个人寿险销售代理人&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"平安寿险通过其代理人的努力推广实现业务增长和收入增加。"</data>
+  <data key="d5">"sales, income growth"</data>
+  <data key="d6">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</edge>
+<edge source="&quot;平安寿险&quot;" target="&quot;平安产险&quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"平安产险与平安寿险同属中国平安集团，二者在业务上紧密相关。"</data>
+  <data key="d5">"corporate relationship, business cooperation"</data>
+  <data key="d6">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</edge>
+<edge source="&quot;平安寿险&quot;" target="&quot;保单继续率(2023年) &quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"2023年的保单继续率上升表明平安寿险的业务稳定性增强。"</data>
+  <data key="d5">"stability, improvement"</data>
+  <data key="d6">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</edge>
+<edge source="&quot;平安寿险&quot;" target="&quot;中国平安保险（集团）股份有限公司&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"平安寿险是平安集团的一个部门，涉及人寿和健康保险业务。"</data>
+  <data key="d5">"group affiliation, department"</data>
+  <data key="d6">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</edge>
+<edge source="&quot;平安寿险&quot;" target="&quot;科技开发人员、科学家团队&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"科技开发人员为各子公司提供技术支持，包括人寿保险业务中的技术应用和创新。"</data>
+  <data key="d5">"技术支持, 创新合作"</data>
+  <data key="d6">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</edge>
+<edge source="&quot;平安寿险&quot;" target="&quot;4 渠道+3 产品战略&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"平安寿险正在实施‘4 渠道+3 产品’战略，全面加强渠道建设以提升业务质量。"</data>
+  <data key="d5">"strategic implementation, channel improvement"</data>
+  <data key="d6">chunk-a6fb96c58872bc40b34548228f0a897c</data>
+</edge>
+<edge source="&quot;CHINA平安&quot;" target="&quot;科技开发人员、科学家团队&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"China平安拥有强大的研发团队，这个团队是其技术实力的重要来源。"</data>
+  <data key="d5">"科研合作, 技术创新"</data>
+  <data key="d6">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</edge>
+<edge source="&quot;CHINA平安&quot;" target="&quot;51,533项专利申请&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"公司的专利数量体现了其在技术研发方面的投入和成果。"</data>
+  <data key="d5">"研发能力, 技术创新"</data>
+  <data key="d6">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</edge>
+<edge source="&quot;CHINA平安&quot;" target="&quot;《财富》世界500强第33位、全球保险企业第1位&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"排名展示了公司在市场中的地位和竞争力。"</data>
+  <data key="d5">"品牌价值, 市场地位"</data>
+  <data key="d6">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</edge>
+<edge source="&quot;科技开发人员、科学家团队&quot;" target="&quot;2.32亿规模的客户群体&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"强大的研发团队是服务于大量客户的基石，保证了公司的业务扩展和技术支持。"</data>
+  <data key="d5">"客户服务, 技术支持"</data>
+  <data key="d6">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</edge>
+<edge source="&quot;科技开发人员、科学家团队&quot;" target="&quot;平安产险&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"科技开发人员为财产保险业务提供研发支持和技术创新。"</data>
+  <data key="d5">"技术研发, 业务支持"</data>
+  <data key="d6">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</edge>
+<edge source="&quot;科技开发人员、科学家团队&quot;" target="&quot;平安养老险&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"科技开发人员为养老保险业务提供技术和产品创新支持。"</data>
+  <data key="d5">"技术支持, 创新合作"</data>
+  <data key="d6">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</edge>
+<edge source="&quot;科技开发人员、科学家团队&quot;" target="&quot;平安健康险&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"科技开发人员为健康保险业务提供研发和技术创新。"</data>
+  <data key="d5">"技术研发, 产品创新"</data>
+  <data key="d6">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</edge>
+<edge source="&quot;科技开发人员、科学家团队&quot;" target="&quot;平安银行&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"科技开发人员为商业银行提供技术和服务支持，推动金融产品的创新和发展。"</data>
+  <data key="d5">"技术支持, 创新合作"</data>
+  <data key="d6">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</edge>
+<edge source="&quot;科技开发人员、科学家团队&quot;" target="&quot;平安信托&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"科技开发人员为信托业务提供研发和技术支持，提升服务质量和效率。"</data>
+  <data key="d5">"技术研发, 业务优化"</data>
+  <data key="d6">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</edge>
+<edge source="&quot;科技开发人员、科学家团队&quot;" target="&quot;平安证券&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"科技开发人员为证券业务提供技术支持和产品创新，推动金融市场的活跃度。"</data>
+  <data key="d5">"技术研发, 创新合作"</data>
+  <data key="d6">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</edge>
+<edge source="&quot;科技开发人员、科学家团队&quot;" target="&quot;平安资产管理&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"科技开发人员为资产管理和投资活动提供技术创新和支持。"</data>
+  <data key="d5">"技术研发, 投资支持"</data>
+  <data key="d6">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</edge>
+<edge source="&quot;科技开发人员、科学家团队&quot;" target="&quot;平安融资租赁&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"科技开发人员为租赁业务提供技术和服务创新，提升客户体验和管理效率。"</data>
+  <data key="d5">"技术支持, 创新合作"</data>
+  <data key="d6">chunk-6ac412f7b7e24fecd22826b1c917e8ba</data>
+</edge>
+<edge source="&quot;综合成本率&quot;" target="&quot;平安产险&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"平安产险的综合成本率是衡量其运营效率的重要指标之一，表现优异。"</data>
+  <data key="d5">"performance, cost control"</data>
+  <data key="d6">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</edge>
+<edge source="&quot;车险&quot;" target="&quot;平安产险&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"平安产险在车险领域的综合成本率表现出色，并且优于市场平均水平。"</data>
+  <data key="d5">"market performance, competitive edge"</data>
+  <data key="d6">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</edge>
+<edge source="&quot;2023年&quot;" target="&quot;平安保险资金投资组合&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"公司在2023年的投资表现优异，综合收益率有所提高。"</data>
+  <data key="d5">"investment performance, financial growth"</data>
+  <data key="d6">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</edge>
+<edge source="&quot;香港中央结算（代理人）有限公司&quot;" target="&quot;股东持股情况&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"香港中央结算（代理人）有限公司持有中国平安保险（集团）股份有限公司的股票。"</data>
+  <data key="d5">"stockholding, relationship"</data>
+  <data key="d6">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</edge>
+<edge source="&quot;香港中央结算（代理人）有限公司&quot;" target="&quot;本公司&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"香港中央结算（代理人）有限公司名义持有本公司非登记股东的股票，这部分股份不计入直接持股统计中。"</data>
+  <data key="d5">"proxy holding, indirect ownership"</data>
+  <data key="d6">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</edge>
+<edge source="&quot;深圳市投资控股有限公司&quot;" target="&quot;股东持股情况&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"深圳市投资控有限公司是报告中提到的一个股东。"</data>
+  <data key="d5">"stockholding, relationship"</data>
+  <data key="d6">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</edge>
+<edge source="&quot;中国证券金融股份有限公司&quot;" target="&quot;股东持股情况&quot;">
+  <data key="d3">4.0</data>
+  <data key="d4">"中国证券金融股份有限公司持有中国平安保险（集团）股份有限公司的股票。"</data>
+  <data key="d5">"stockholding, relationship"</data>
+  <data key="d6">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</edge>
+<edge source="&quot;香发控股有限公司&quot;" target="&quot;股东持股情况&quot;">
+  <data key="d3">3.0</data>
+  <data key="d4">"香发控股有限公司是报告中提到的一个股东。"</data>
+  <data key="d5">"stockholding, relationship"</data>
+  <data key="d6">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</edge>
+<edge source="&quot;2023年净利润464.55亿元&quot;" target="&quot;平安银行&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"平安银行在2023年的财务业绩增长稳定，实现了较高的净利润率。"</data>
+  <data key="d5">"financial health, profitability"</data>
+  <data key="d6">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</edge>
+<edge source="&quot;中央汇金资产管理有限责任公司&quot;" target="&quot;股东持股情况&quot;">
+  <data key="d3">2.0</data>
+  <data key="d4">"中央汇金资产管理有限责任公司持有中国平安保险（集团）股份有限公司的股票。"</data>
+  <data key="d5">"stockholding, relationship"</data>
+  <data key="d6">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</edge>
+<edge source="&quot;平安医疗养老生态圈&quot;" target="&quot;客户&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"该生态系统通过服务多个业务条线，为客户提供全面的服务解决方案，增强客户黏性。"</data>
+  <data key="d5">"service delivery, customer engagement"</data>
+  <data key="d6">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</edge>
+<edge source="&quot;长期服务计划&quot;" target="&quot;股东持股情况&quot;">
+  <data key="d3">1.0</data>
+  <data key="d4">"长期服务计划是报告中提到的一种投资或保险计划。"</data>
+  <data key="d5">"investment plan, relationship"</data>
+  <data key="d6">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</edge>
+<edge source="&quot;长期服务计划&quot;" target="&quot;中国平安&quot;">
+  <data key="d3">12.0</data>
+  <data key="d4">"长期服务计划是公司为员工设立的一项福利制度，与公司的经营业绩和个人发展有关联。"</data>
+  <data key="d5">"employee benefits, corporate strategy"</data>
+  <data key="d6">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</edge>
+<edge source="&quot;个人客户&quot;" target="&quot;平安集团&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"平安集团通过多种产品和服务吸引并维护大量个人客户，这些客户在多个业务线中迁移。"</data>
+  <data key="d5">"customer relationship management, cross-selling"</data>
+  <data key="d6">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</edge>
+<edge source="&quot;个人客户&quot;" target="&quot;家庭医生&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"家庭医生为个人客户提供个性化的医疗服务，增强客户的健康管理和医疗体验。"</data>
+  <data key="d5">"healthcare service, personal care"</data>
+  <data key="d6">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</edge>
+<edge source="&quot;个人客户&quot;" target="&quot;养老管家&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"养老管家帮助个人客户管理养老服务，提高他们在老年时期的福利和生活质量。</data>
+  <data key="d5">"elderly care management, customer support"</data>
+  <data key="d6">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</edge>
+<edge source="&quot;深业集团有限公司&quot;" target="&quot;股东持股情况&quot;">
+  <data key="d3">4.0</data>
+  <data key="d4">"深业集团有限公司持有中国平安保险（集团）股份有限公司的股票。"</data>
+  <data key="d5">"stockholding, relationship"</data>
+  <data key="d6">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</edge>
+<edge source="&quot;大成基金－农业银行&quot;" target="&quot;中国平安&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"这两家组织都参与了投资活动，可能与公司的财务表现有关联。"</data>
+  <data key="d5">"investor relation, financial performance"</data>
+  <data key="d6">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</edge>
+<edge source="&quot;大成基金－农业银行&quot;" target="&quot;股东持股情况&quot;">
+  <data key="d3">3.0</data>
+  <data key="d4">"大成基金－农业银行是报告中提到的一个股东。"</data>
+  <data key="d5">"stockholding, relationship"</data>
+  <data key="d6">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</edge>
+<edge source="&quot;4个及以上合同的客户&quot;" target="&quot;高净值客户的客均合同数&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"持有4个或以上合同的客户通常具有较高的消费能力和贡献度，其平均合同数量也相对较高。</data>
+  <data key="d5">"value customer, loyalty enhancement"</data>
+  <data key="d6">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</edge>
+<edge source="&quot;不良贷款率&quot;" target="&quot;拨备覆盖率&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"较低的不良贷款率和较高的拨备覆盖率反映了平安银行稳健的风险管理能力。"&lt;SEP&gt;"较高的不良贷款率可能导致较低的拨备覆盖率，因为需要更多的准备金来覆盖潜在损失。"</data>
+  <data key="d5">"risk assessment, financial prudence"&lt;SEP&gt;"risk management, financial stability"</data>
+  <data key="d6">chunk-d36bd7e67f654e34277b156577b65d91&lt;SEP&gt;chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</edge>
+<edge source="&quot;华夏基金－农业银行&quot;" target="&quot;中国平安&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"这些组织也是投资者之一，他们的表现间接影响着公司业绩。"</data>
+  <data key="d5">"investor diversity, financial health"</data>
+  <data key="d6">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</edge>
+<edge source="&quot;华夏基金－农业银行&quot;" target="&quot;股东持股情况&quot;">
+  <data key="d3">2.0</data>
+  <data key="d4">"华夏基金－农业银行持有中国平安保险（集团）股份有限公司的股票。"</data>
+  <data key="d5">"stockholding, relationship"</data>
+  <data key="d6">chunk-ac8582f25522360a920b52b5636f87e4</data>
+</edge>
+<edge source="&quot;平安&quot;" target="&quot;个人存款&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"平安吸收个人存款，是其资金来源之一。"</data>
+  <data key="d5">"funding source, absorption"</data>
+  <data key="d6">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</edge>
+<edge source="&quot;平安&quot;" target="&quot;企业贷款&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"平安发放企业贷款，支持企业发展。&lt;span style="color: #FF0000;"&gt;（修改为实际关系描述）&lt;/span&gt;"</data>
+  <data key="d5">"credit provision, enterprise support"</data>
+  <data key="d6">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</edge>
+<edge source="&quot;平安&quot;" target="&quot;资产管理业务&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"平安通过平安证券、平安信托等公司开展资产管理业务。"</data>
+  <data key="d5">"business operation, asset management"</data>
+  <data key="d6">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</edge>
+<edge source="&quot;平安&quot;" target="&quot;3.9万亿元风险保障&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"中国平安提供了大量的保险覆盖以确保多个项目的安全运行。&lt;br&gt;此金额反映了其在风险管理和保障方面的重要作用。"</data>
+  <data key="d5">"风险管理,保险服务"</data>
+  <data key="d6">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</edge>
+<edge source="&quot;AI坐席&quot;" target="&quot;平安集团&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"AI坐席为客户提供24小时在线服务，提升公司的客户服务质量和效率。"</data>
+  <data key="d5">"customer service enhancement, operational efficiency"</data>
+  <data key="d6">chunk-d36bd7e67f654e34277b156577b65d91</data>
+</edge>
+<edge source="&quot;陆金所控股&quot;" target="&quot;科技业务&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"陆金所控股在平安集团的科技业务中扮演重要角色，提供金融服务和产品。&lt;span style="color: #FF0000;"&gt;（修改为实际关系描述）&lt;/span&gt;"</data>
+  <data key="d5">"service provision, technology support"</data>
+  <data key="d6">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</edge>
+<edge source="&quot;平安养老险&quot;" target="&quot;4 渠道+3 产品战略&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"虽然文中未直接提到平安养老险在‘4 渠道+3 产品’中的具体角色，但作为公司的子公司之一，它可能也参与了该战略的实施。"</data>
+  <data key="d5">"collaborative strategy, potential involvement"</data>
+  <data key="d6">chunk-a6fb96c58872bc40b34548228f0a897c</data>
+</edge>
+<edge source="&quot;平安健康&quot;" target="&quot;中国平安保险（集团）股份有限公司&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"平安健康作为平安集团旗下一个重要分支，致力于提供高质量的医疗养老服务平台。&lt;br&gt;2023年实现营业收入46.74亿元，净亏损同比下降49.3%至3.23亿元。"</data>
+  <data key="d5">"子公司,健康管理"</data>
+  <data key="d6">chunk-b05c94a3aba33eac54215d2e35690fb5</data>
+</edge>
+<edge source="&quot;汽车之家&quot;" target="&quot;中国平安保险（集团）股份有限公司&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"汽车之家是平安集团旗下的一个分支，负责服务消费者、主机厂和汽车生态各类参与者。&lt;br&gt;2023年实现营业收入71.84亿元，净利润21.60亿元。"</data>
+  <data key="d5">"子公司,市场拓展"</data>
+  <data key="d6">chunk-b05c94a3aba33eac54215d2e35690fb5</data>
+</edge>
+<edge source="&quot;金融壹账通&quot;" target="&quot;中国平安保险（集团）股份有限公司&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"金融壹账通是平安集团的一部分，通过‘技术+业务’模式帮助客户实现数字化转型和经营优化。"</data>
+  <data key="d5">"子公司,数字化转型"</data>
+  <data key="d6">chunk-b05c94a3aba33eac54215d2e35690fb5</data>
+</edge>
+<edge source="&quot;金融壹账通&quot;" target="&quot;科技业务&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"金融壹账通在平安集团的科技业务中提供技术创新和解决方案。&lt;span style="color: #FF0000;"&gt;（修改为实际关系描述）&lt;/span&gt;"</data>
+  <data key="d5">"technology innovation, solution provision"</data>
+  <data key="d6">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</edge>
+<edge source="&quot;平安产险&quot;" target="&quot;营运利润(2023年) &quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"营运利润的变动反映了平安产险的整体经营状况，尤其是保险服务收入的增长对利润有积极影响。"</data>
+  <data key="d5">"profitability, revenue growth"</data>
+  <data key="d6">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</edge>
+<edge source="&quot;平安产险&quot;" target="&quot;综合成本率(2023年) &quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"2023年平安产险的整体综合成本率和车险业务综合成本率表明其业务保持稳定增长且质量良好。"</data>
+  <data key="d5">"cost management, stability"</data>
+  <data key="d6">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</edge>
+<edge source="&quot;平安产险&quot;" target="&quot;200万亿元风险保障总额&quot;">
+  <data key="d3">42.0</data>
+  <data key="d4">"平安产险为小微企业提供了巨额保险覆盖以确保其正常运营，反映了企业风险管理的重要作用。&lt;br&gt;此金额体现了其在保障小微企业方面的重要贡献。"&lt;SEP&gt;"平安产险在执行政治性和人民性的原则下提供了全面的保险覆盖。&lt;br&gt;此金额体现了其在服务社会和保障人民利益方面的重要作用。"&lt;SEP&gt;"平安产险提供的保险覆盖了广泛的领域，包括企业的风险管理。&lt;br&gt;此金额反映了其在为企业提供保险服务方面的投入和贡献。"&lt;SEP&gt;"平安产险的财产保险业务收入增长体现了其在风险管理方面的实力。&lt;br&gt;此金额反映了其在为客户提供全面服务方面的努力。"&lt;SEP&gt;"平安产险通过不同渠道为小微企业提供了巨额保险覆盖。&lt;br&gt;此金额体现了其在风险管理方面的重要作用。"</data>
+  <data key="d5">"保险服务,风险防范"&lt;SEP&gt;"风险管理,业务支持"&lt;SEP&gt;"风险管理,社会服务"</data>
+  <data key="d6">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</edge>
+<edge source="&quot;平安产险&quot;" target="&quot;京津冀暴雨洪涝&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"平安产险在应对自然灾害方面发挥了重要作用，在重大灾害中提供了及时的保险赔付和救援。&lt;br&gt;此金额体现了其在风险管理和应急响应中的重要性。"</data>
+  <data key="d5">"风险管理,灾难响应"</data>
+  <data key="d6">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</edge>
+<edge source="&quot;商发控股有限公司&quot;" target="&quot;卜蜂集团有限公司&quot;">
+  <data key="d3">29.0</data>
+  <data key="d4">"商发控股有限公司是卜蜂集团有限公司的全资子公司。"&lt;SEP&gt;"商发控股有限公司由卜蜂集团有限公司间接全资持股，两者存在股权关系。"</data>
+  <data key="d5">"parent-subsidiary relationship, ownership structure"</data>
+  <data key="d6">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</edge>
+<edge source="&quot;13个月保单继续率(2023年) &quot;" target="&quot;13个月保单继续率(2022年) &quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"13个月保单继续率在2023年的数值上升，表明业务稳定性增强。"</data>
+  <data key="d5">"stability, improvement"</data>
+  <data key="d6">chunk-7156d37905ebc1cc83f5de47f6055656</data>
+</edge>
+<edge source="&quot;卜蜂集团有限公司&quot;" target="&quot;中国平安&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"中国平安与卜蜂集团有限公司存在间接持股关系，影响公司股权结构和控制权。"</data>
+  <data key="d5">"equity holding, corporate governance"</data>
+  <data key="d6">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</edge>
+<edge source="&quot;代理人渠道&quot;" target="&quot;寿险及健康险业务&quot;">
+  <data key="d3">28.0</data>
+  <data key="d4">"13个月保单继续率的提升反映了代理人在寿险及健康险业务中的努力和成效。&lt;br&gt;这体现了平安在提高服务质量方面的成功尝试。"&lt;SEP&gt;"代理人在促进寿险及健康险业务中的业绩表现反映了个人客户的保险需求。&lt;br&gt;这体现了平安在满足客户需求方面所做的努力和成效。"&lt;SEP&gt;"寿险及健康险业务中代理人的成绩体现了个人客户的保险需求。&lt;br&gt;这反映了平安在满足客户需求方面所做的努力和取得的成效。"&lt;SEP&gt;"寿险及健康险业务中的业绩增长体现了代理人在实施综合金融战略中的努力和成效。&lt;br&gt;这反映了平安在提供多元金融服务方面的成功尝试。"</data>
+  <data key="d5">"客户服务,业绩增长"</data>
+  <data key="d6">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</edge>
+<edge source="&quot;代理人渠道&quot;" target="&quot;平安银行&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"综合金融模式的实施依赖于代理人的推广和服务。&lt;br&gt;这反映了平安在提供多元金融服务方面的努力和贡献。"</data>
+  <data key="d5">"客户服务,业务支持"</data>
+  <data key="d6">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</edge>
+<edge source="&quot;中国平安&quot;" target="&quot;董事会秘书&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"盛瑞生作为董事会秘书，负责公司与外界的信息沟通和信息披露工作。"</data>
+  <data key="d5">"communication, role definition"</data>
+  <data key="d6">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</edge>
+<edge source="&quot;中国平安&quot;" target="&quot;盛瑞生&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"盛瑞生是公司的董事会秘书，负责与外界的信息沟通和信息披露工作。"</data>
+  <data key="d5">"communication, role definition"</data>
+  <data key="d6">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</edge>
+<edge source="&quot;中国平安&quot;" target="&quot;上海证券交易所&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"A股在上交所上市，体现了公司的重要业务活动。"</data>
+  <data key="d5">"listing, business activity"</data>
+  <data key="d6">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</edge>
+<edge source="&quot;中国平安&quot;" target="&quot;香港联合交易所有限公司&quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"H股在香港联交所上市，反映了公司在国际市场的扩展。"</data>
+  <data key="d5">"international expansion, listing"</data>
+  <data key="d6">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</edge>
+<edge source="&quot;中国平安&quot;" target="&quot;股东大会&quot;">
+  <data key="d3">20.0</data>
+  <data key="d4">"股东大会审议批准了公司的重大决策事项，如利润分配建议等。"</data>
+  <data key="d5">"decision-making, approval"</data>
+  <data key="d6">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</edge>
+<edge source="&quot;中国平安&quot;" target="&quot;H股&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"中国平安通过商发控股有限公司间接持有自己的H股股份。"</data>
+  <data key="d5">"shareholding, corporate governance"</data>
+  <data key="d6">chunk-930fdfad475de8c6f2358d825b1113a8</data>
+</edge>
+<edge source="&quot;中国平安&quot;" target="&quot;2023 年年度报告&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"中国平安编制并公布了 2023 年的年度财务报告。这份报告详细反映了公司一年来的经营成果和财务状况。"</data>
+  <data key="d5">"reporting, financial results"</data>
+  <data key="d6">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</edge>
+<edge source="&quot;平安健康险&quot;" target="&quot;4 渠道+3 产品战略&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"同平安养老险一样，平安健康险也可能是‘4 渠道+3 产品’战略的一部分，共同推动综合金融+医疗养老的战略发展。"</data>
+  <data key="d5">"strategy alignment, potential cooperation"</data>
+  <data key="d6">chunk-a6fb96c58872bc40b34548228f0a897c</data>
+</edge>
+<edge source="&quot;本公司保险资金投资组合&quot;" target="&quot;平安银行&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The investment portfolio managed by the company operates within Ping An Bank's broader organizational structure."</data>
+  <data key="d5">"financial management, operational inclusion"</data>
+  <data key="d6">chunk-00b9af5b5db5c159f6ad1f7d644d4ac2</data>
+</edge>
+<edge source="&quot;平安银行&quot;" target="&quot;3.9万亿元风险保障&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"平安银行提供了大量的贷款支持和保险保障服务以促进经济发展和战略规划。"</data>
+  <data key="d5">"金融服务,风险管控"</data>
+  <data key="d6">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</edge>
+<edge source="&quot;平安银行&quot;" target="&quot;三村工程&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"平安银行通过实施三村工程来支持农村、乡村和村庄的发展，体现了其社会扶贫的责任。&lt;br&gt;此项目旨在帮助贫困地区提升经济和社会发展水平。"</data>
+  <data key="d5">"社会责任,扶贫工程"</data>
+  <data key="d6">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</edge>
+<edge source="&quot;平安银行&quot;" target="&quot;200万亿元风险保障总额&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"平安银行为小微企业提供了巨额贷款支持，帮助他们应对各种经营风险。&lt;br&gt;此金额反映了其在金融服务和企业扶持方面的重要作用。"</data>
+  <data key="d5">"金融服务,风险管理"</data>
+  <data key="d6">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</edge>
+<edge source="&quot;平安银行&quot;" target="&quot;103.22万小微企业主&quot;">
+  <data key="d3">15.0</data>
+  <data key="d4">"平安银行为个人客户提供贷款支持和服务，其中也包括了小微企业主。&lt;br&gt;这体现了其在普惠金融中的作用。"&lt;SEP&gt;"通过金融综合账户，平安为小微企业家提供了便捷的金融服务。&lt;br&gt;这体现了其在满足客户需求方面的努力和贡献。"</data>
+  <data key="d5">"金融服务,客户服务"&lt;SEP&gt;"金融服务,客户群体"</data>
+  <data key="d6">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</edge>
+<edge source="&quot;净投资收益率(4)&quot;" target="&quot;综合投资收益率(4)&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Net Investment Yield (4) and Comprehensive Investment Return Rate (4) are related as both metrics provide insights into the company's investment performance."</data>
+  <data key="d5">"performance evaluation, financial metrics"</data>
+  <data key="d6">chunk-00b9af5b5db5c159f6ad1f7d644d4ac2</data>
+</edge>
+<edge source="&quot;综合投资收益率(4)&quot;" target="&quot;净投资收益(1)&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Net Investment Income (1) contributes to the Comprehensive Investment Return Rate (4)."</data>
+  <data key="d5">"income contribution, performance metric"</data>
+  <data key="d6">chunk-00b9af5b5db5c159f6ad1f7d644d4ac2</data>
+</edge>
+<edge source="&quot;小微企业主&quot;" target="&quot;第一接触&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"小微企业主是平安银行服务的主要对象之一，涉及金融服务和业务支持。"</data>
+  <data key="d5">"金融服务,企业扶持"</data>
+  <data key="d6">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</edge>
+<edge source="&quot;骑手&quot;" target="&quot;新市民&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"新市民中的一部分人可能成为骑手从事相关工作，体现了他们适应城市生活的努力。&lt;br&gt;同时，平安提供的风险保障也覆盖了这部分群体。"</data>
+  <data key="d5">"职业发展,保险覆盖"</data>
+  <data key="d6">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</edge>
+<edge source="&quot;2023 年年度报告&quot;" target="&quot;安永华明会计师事务所（特殊普通合伙）&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"安永华明会计师事务所对 2023 年年度报告进行了审计，并提供了审计意见。"</data>
+  <data key="d5">"auditing, validation"</data>
+  <data key="d6">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</edge>
+<edge source="&quot;2023 年年度报告&quot;" target="&quot;股东大会&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"年度股东大会审议批准了 2023 年的财务报告和其他重要事项。"</data>
+  <data key="d5">"approval, decision-making"</data>
+  <data key="d6">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</edge>
+<edge source="&quot;2023年年度报告摘要&quot;" target="&quot;资产管理业务&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"2023年年度报告摘要中提及了公司的资产管理规模和管理策略。"</data>
+  <data key="d5">"reporting, business summary"</data>
+  <data key="d6">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</edge>
+<edge source="&quot;2023年年度报告摘要&quot;" target="&quot;科技业务&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"2023年年度报告摘要中详细介绍了平安在科技领域的投入和发展情况。"</data>
+  <data key="d5">"reporting, technology development"</data>
+  <data key="d6">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</edge>
+<edge source="&quot;三村工程&quot;" target="&quot;103.22万小微企业主&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"通过实施三村工程，平安帮助了大量个人客户中的小微企业主。&lt;br&gt;此项目体现了其在支持农村经济和社会发展方面的重要作用。"</data>
+  <data key="d5">"社会责任,扶贫工程"</data>
+  <data key="d6">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</edge>
+<edge source="&quot;103.22万小微企业主&quot;" target="&quot;安徽省阜南县的小芦蒿&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"小芦蒿是当地农业产品，可能通过平安的金融服务增加销售渠道和市场影响力。&lt;br&gt;这体现了平安在助力农村经济发展中的作用。"</data>
+  <data key="d5">"农业发展,金融服务"</data>
+  <data key="d6">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</edge>
+<edge source="&quot;103.22万小微企业主&quot;" target="&quot;西藏比如县的牦牛耳标&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"牦牛养殖是当地特色产业，通过平安提供的服务和保障支持其市场拓展。&lt;br&gt;这体现了平安在助力贫困地区产业发展中的作用。"</data>
+  <data key="d5">"畜牧发展,金融服务"</data>
+  <data key="d6">chunk-d6761430ed14e814a7c3316c385b21ca</data>
+</edge>
+<edge source="&quot;平安健康、汽车之家等成员公司&quot;" target="&quot;科技业务&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"这些子公司共同推动平安集团的科技和金融业务的发展。&lt;span style="color: #FF0000;"&gt;（修改为实际关系描述）&lt;/span&gt;"</data>
+  <data key="d5">"business collaboration, technology support"</data>
+  <data key="d6">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</edge>
+<edge source="&quot;科技业务&quot;" target="&quot;研发和自主知识产权掌控&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"公司在科技领域进行了大量研发投入，并控制着多项专利技术。&lt;span style="color: #FF0000;"&gt;（修改为实际关系描述）&lt;/span&gt;"</data>
+  <data key="d5">"research and development, intellectual property control"</data>
+  <data key="d6">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</edge>
+<edge source="&quot;2023 年中期已分配股息&quot;" target="&quot;2023 年年度报告摘要&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"中期股息的发放是公司年度财务报告的一部分。"</data>
+  <data key="d5">"reporting, financial performance"</data>
+  <data key="d6">chunk-19709c3430614f3904b8ffaf27bf135d</data>
+</edge>
+<edge source="&quot;资产管理业务&quot;" target="&quot;平安证券、平安信托等公司&quot;">
+  <data key="d3">27.0</data>
+  <data key="d4">"这些子公司为平安的资产管理业务提供了支持和运营能力。&lt;span style="color: #FF0000;"&gt;（修改为实际关系描述）&lt;/span&gt;"&lt;SEP&gt;"这些子公司是平安开展资产管理业务的主要载体。&lt;span style="color: #FF0000;"&gt;（修改为实际关系描述）&lt;/span&gt;"</data>
+  <data key="d5">"asset management, subsidiaries"&lt;SEP&gt;"support, operational capability"</data>
+  <data key="d6">chunk-b65a11dd884ba94f56a65cde06cf1663</data>
+</edge>
+</graph></graphml>
