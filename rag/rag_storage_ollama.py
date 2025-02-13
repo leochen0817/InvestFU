@@ -8,8 +8,8 @@ from lightrag.utils import EmbeddingFunc
 import shutil
 import textract
 
-# WORKING_DIR = "./wzzj_rag"
-WORKING_DIR = "./yb_rag"
+# WORKING_DIR = "../data/wzzj_rag"
+WORKING_DIR = "../data/yb_rag"
 
 logging.basicConfig(format="%(levelname)s:%(message)s", level=logging.INFO)
 
