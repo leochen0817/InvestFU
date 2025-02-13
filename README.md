@@ -74,7 +74,7 @@ InvestFU/
 ├── scripts                  # 处理数据脚本
 ├── src                      # 项目代码
 ├── tools                    # 工具类
-├── xtuner_config            # xtuner配置
+├── xtuner                   # xtuner微调
 ├── README.md                # README.md
 └── requirements.txt         # 使用pip安装的依赖
 ```
@@ -121,16 +121,18 @@ pip install -r requirements.txt
 
 ### 模型训练
 
+基于InternLM2.5-7B-Chat基础模型，我们准备了SFT的微调数据，训练一个针对财报场景的私有模型。
+
+[XTuner手册](./xtuner/README_xtuner.md)
+
 命令行直接如下操作：
 
-**QLoRA+deepspeed训练**
+**LoRA+deepspeed训练**
 
 ```
-#增量预训练
-xtuner train ./xtuner_config/pretrain/internlm2_5-1_8b-chat_pretrain.py  --work-dir ./pretrain --deepspeed deepspeed_zero1
-
 #指令微调
-xtuner train ./xtuner_config/finetune/internlm2_5_chat_1_8b_qlora_wulewule_all_test.py  --work-dir ./finetune --deepspeed deepspeed_zero1
+xtuner train ./config/internlm2_5_chat_7b_lora_pingan.py --work-dir ./work_dirs/assistTuner
+xtuner train ./config/internlm2_5_chat_7b_lora_pingan.py --work-dir ./work_dirs/assistTuner --deepspeed deepspeed_zero1(使用deepspeed加速)
 ```
 
 ### RAG(检索增强生成)
