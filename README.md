@@ -141,7 +141,7 @@ xtuner train ./xtuner_config/finetune/internlm2_5_chat_1_8b_qlora_wulewule_all_t
 
 
 ### ASR(语音识别)
-通过FunASR使用SenseVoiceSmall模型做音频语音识别。
+采用FunASR paraformer-zh模型作为语言识别模型、Gemini-2.0-pro模型/deepseek-V3模型作为后续识别文本的整理纪要生成模型。
 
 [语音识别处理](README_asr.md)
 
